@@ -23,7 +23,7 @@ $EPXL has several vital uses in the game:
 | Usage | Description | Burn Rate |
 |-------|-------------|-----------|
 | Dungeon Entry | Required to enter dungeons | 95% burned |
-| Fatigue Recovery | Restore Hero energy | 100% burned |
+| Premium Features | Boost rewards and reduce risk | 80-90% burned |
 | Future: Marketplace | Trading fees | TBD |
 | Future: Cosmetics | Visual enhancements | TBD |
 | Future: DAO Voting | Governance power | No burn |

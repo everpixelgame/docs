@@ -49,7 +49,7 @@
     - Rare: 3% reduction per level
     - Epic: 4% reduction per level
     - Legendary: 5% reduction per level
-5. You can either wait for the cooldown to pass or restore energy using $EPXL
+5. After a dungeon run, you must wait for the cooldown to pass naturally before using that Hero again
 
 ### Level Up:
 1. Heroes gain EXP from dungeons automatically
@@ -71,6 +71,7 @@ Remember these important risks:
 |-----|-------------|
 | **Start Safe** | Use Easy dungeons until you understand the game |
 | **Manage Cooldowns** | Plan your play sessions around cooldown timers |
+| **Build a Hero Roster** | Having multiple Heroes lets you play while others recover |
 | **Prioritize Leveling** | Higher levels mean faster cooldown recovery |
 | **Rarity Matters** | Higher rarity Heroes earn more, have lower death rates, and get better cooldown reduction |
 | **Save for Minting** | Try to save USDC to mint more Heroes early |

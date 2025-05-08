@@ -75,22 +75,23 @@ To determine which dungeon is most profitable for each Hero, use this formula:
 
 ## Fatigue Management
 
-### Advanced Fatigue Recovery Strategies
+### Optimal Hero Rotation
 
-| Hero Type | Strategy | Reasoning |
-|-----------|----------|-----------|
-| Common | Wait for natural recovery | Not worth spending $EPXL |
-| Rare | Recover once per day | Limit to control costs |
-| Epic | Recover 2-3 times per day | Worth it for increased runs |
-| Legendary | Always recover | Maximum utilization is priority |
+Since fatigue can only be recovered through natural cooldown, it's essential to develop a rotation strategy:
+
+| Hero Pool Size | Strategy | Reasoning |
+|----------------|----------|-----------|
+| 1-3 Heroes | Staggered entry | Ensure not all Heroes are on cooldown at once |
+| 4-6 Heroes | Rarity-based rotation | Use high-rarity Heroes for Hard dungeons, others for Easy |
+| 7+ Heroes | Specialized teams | Dedicate specific Heroes to specific dungeon types |
 
 ### Time-Block Scheduling
 
 For optimal efficiency, schedule your dungeon runs in time blocks based on cooldown periods:
 
-1. **Morning Block**: Run all Heroes once
-2. **Afternoon Block**: Run recovered high-rarity Heroes
-3. **Evening Block**: Final runs with all available Heroes
+1. **Morning Block**: Run all available Heroes
+2. **Afternoon Block**: Run Heroes that have completed cooldown since morning
+3. **Evening Block**: Run remaining Heroes that have completed cooldown
 
 This pattern maximizes natural recovery while maintaining regular activity.
 
@@ -150,7 +151,7 @@ When to hold vs. spend $EPXL:
 | Market Condition | Strategy |
 |------------------|----------|
 | Rising $EPXL price | Hold rewards, spend only on necessities |
-| Falling $EPXL price | Accelerate spending on Heroes and fatigue restoration |
+| Falling $EPXL price | Accelerate spending on Heroes and premium features |
 | Stable $EPXL price | Balanced approach of reinvestment |
 
 ### Future Marketplace Preparation

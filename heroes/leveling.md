@@ -119,14 +119,14 @@ Each level provides multiple benefits:
 **Example 1:** Level 5 Common Hero
 - Base Cooldown: 6 hours
 - Reduction per Level: 2%
-- Total Reduction: 2% × 5 = 10%
-- Final Cooldown: 6 × (1 - 0.10) = 5.4 hours
+- Total Reduction: 2% × 4 = 8%
+- Final Cooldown: 6 × (1 - 0.08) = 5.52 hours
 
 **Example 2:** Level 10 Legendary Hero
 - Base Cooldown: 6 hours
 - Reduction per Level: 5%
-- Total Reduction: 5% × 10 = 50%
-- Final Cooldown: 6 × (1 - 0.50) = 3 hours
+- Total Reduction: 5% × 9 = 45%
+- Final Cooldown: 6 × (1 - 0.45) = 3.3 hours
 
 ### Example Bonuses By Level
 

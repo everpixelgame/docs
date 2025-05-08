@@ -34,31 +34,29 @@ All Heroes start with the same base cooldown of 6 hours at Level 1, which decrea
 | 9 | 5.04 hours | 4.56 hours | 4.08 hours | 3.6 hours |
 | 10 | 4.92 hours | 4.38 hours | 3.84 hours | 3.3 hours |
 
-Once a Hero reaches their fatigue limit, they can't enter dungeons until:
-1. The cooldown period passes, OR
-2. You restore their energy using $EPXL
+Once a Hero reaches their fatigue limit, they can't enter dungeons until the cooldown period passes naturally. Heroes must rest for their full cooldown duration before they can enter dungeons again.
 
 ### Cooldown Calculation Examples
 
 **Example 1:** Level 5 Common Hero
 - Base Cooldown: 6 hours
-- Cooldown Reduction: 2% × 5 levels = 10% reduction
-- Final Cooldown: 6 hours × (1 - 0.10) = 5.4 hours (5 hours and 24 minutes)
+- Cooldown Reduction: 2% × 4 = 8% reduction
+- Final Cooldown: 6 hours × (1 - 0.08) = 5.52 hours (5 hours and 31 minutes)
 
 **Example 2:** Level 7 Rare Hero
 - Base Cooldown: 6 hours
-- Cooldown Reduction: 3% × 7 levels = 21% reduction
-- Final Cooldown: 6 hours × (1 - 0.21) = 4.74 hours (4 hours and 44 minutes)
+- Cooldown Reduction: 3% × 6 = 18% reduction
+- Final Cooldown: 6 hours × (1 - 0.18) = 4.92 hours (4 hours and 55 minutes)
 
 **Example 3:** Level 10 Epic Hero
 - Base Cooldown: 6 hours
-- Cooldown Reduction: 4% × 10 levels = 40% reduction
-- Final Cooldown: 6 hours × (1 - 0.40) = 3.6 hours (3 hours and 36 minutes)
+- Cooldown Reduction: 4% × 9 = 36% reduction
+- Final Cooldown: 6 hours × (1 - 0.36) = 3.84 hours (3 hours and 50 minutes)
 
 **Example 4:** Level 10 Legendary Hero
 - Base Cooldown: 6 hours
-- Cooldown Reduction: 5% × 10 levels = 50% reduction
-- Final Cooldown: 6 hours × (1 - 0.50) = 3 hours
+- Cooldown Reduction: 5% × 9 = 45% reduction
+- Final Cooldown: 6 hours × (1 - 0.45) = 3.3 hours (3 hours and 18 minutes)
 
 ## Daily Dungeon Runs
 
@@ -79,38 +77,6 @@ The number of dungeon runs a Hero can make in 24 hours varies by level and rarit
 **Example 2:** Level 10 Legendary Hero
 - Cooldown Time: 3.3 hours
 - Potential Runs in 24 hours: 24 ÷ 3.3 = 7.27 runs
-
-## Restoring Fatigue
-
-You can instantly restore fatigue by spending $EPXL. The cost is calculated based on the Hero's level and rarity.
-
-The formula takes into account:
-- Hero's rarity (higher rarity = higher cost)
-- Hero's level (higher level = higher cost)
-
-**Important:** 100% of $EPXL spent on fatigue restoration is burned from the supply.
-
-### Fatigue Restoration Cost Examples
-
-Assuming base restoration costs:
-
-**Example 1:** Level 3 Common Hero
-- Base Cost: 5 $EPXL
-- Rarity Modifier: 1× (Common)
-- Level Modifier: 1 + (0.1 × 3) = 1.3×
-- Final Cost: 5 × 1 × 1.3 = 6.5 $EPXL
-
-**Example 2:** Level 8 Epic Hero
-- Base Cost: 5 $EPXL
-- Rarity Modifier: 2× (Epic)
-- Level Modifier: 1 + (0.1 × 8) = 1.8×
-- Final Cost: 5 × 2 × 1.8 = 18 $EPXL
-
-**Example 3:** Level 10 Legendary Hero
-- Base Cost: 5 $EPXL
-- Rarity Modifier: 3× (Legendary)
-- Level Modifier: 1 + (0.1 × 10) = 2×
-- Final Cost: 5 × 3 × 2 = 30 $EPXL
 
 ## Fatigue Recovery Bonuses
 
@@ -166,6 +132,6 @@ To maintain game economy balance, additional mechanics are in place:
 
 - **Plan your dungeon runs** around the cooldown period
 - **Balance risk and reward** with multiple daily runs
-- **Consider the cost** of fatigue restoration versus potential rewards
 - **Level up your Heroes** to improve recovery rates
 - **Create a diverse roster** with Heroes of different rarities for optimal play
+- **Stagger your runs** to always have some Heroes available to play

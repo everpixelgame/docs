@@ -9,7 +9,7 @@ The core gameplay loop in Everpixel is simple but strategic:
 1. **Mint Heroes** - Get unique characters with different classes and rarities
 2. **Enter Dungeons** - Send your Heroes to battle automatically
 3. **Earn Rewards** - Collect $EPXL tokens from successful dungeon runs
-4. **Manage Fatigue** - Wait for your Heroes to recover or restore energy with $EPXL
+4. **Manage Fatigue** - Wait for your Heroes to recover naturally over time
 5. **Level Up** - Improve your Heroes' abilities over time
 6. **Handle Death** - When Heroes die, they become stakers in the Graveyard
 
@@ -32,8 +32,7 @@ Heroes get tired after dungeon runs:
     - Rare: 3% reduction per level
     - Epic: 4% reduction per level
     - Legendary: 5% reduction per level
-- Restore fatigue by spending $EPXL
-- Cost is based on Hero's level and rarity
+- Heroes must wait for their cooldown timer to complete before entering another dungeon
 
 ### 3. Death & Graveyard System
 
@@ -54,7 +53,7 @@ Optional enhancements available for purchase with $EPXL:
 
 These systems all connect to create a balanced economy:
 - Dungeon rewards provide the main $EPXL income
-- Fatigue and dungeon entry fees create $EPXL burning mechanisms
+- Dungeon entry fees and premium features create $EPXL burning mechanisms
 - Death risk creates strategic choices about which Heroes to use
 - The Graveyard ensures even dead Heroes retain value
 - Leveling provides gradual cooldown reduction based on rarity, creating long-term value
