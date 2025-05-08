@@ -122,4 +122,9 @@ Different rarities are suited for different strategies:
 
 | Rarity | Best Use |
 |--------|----------|
-| Common | Low-risk Easy dungeon runs, entry-
+| Common | Low-risk Easy dungeon runs, entry-level play |
+| Rare | Balanced approach for medium-risk dungeons |
+| Epic | Optimal efficiency for active players |
+| Legendary | High-value targets for Hard dungeons, maximum earnings |
+
+Each rarity has its place in a well-rounded collection. While higher rarities are obviously better, Common Heroes can be profitable too when used strategically!
