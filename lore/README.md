@@ -1,30 +1,61 @@
-# Everpixel World & Lore
+# Everpixel Roadmap
 
-![World Map](https://placeholder.com/wp-content/uploads/2018/10/placeholder.png)
+![Roadmap](https://placeholder.com/wp-content/uploads/2018/10/placeholder.png)
 
-## The World of Everpixel
+## Current Phase: MVP
 
-Welcome to the pixel realm of **Everphaeria**, a world where magic and technology blend together in vibrant 2D landscapes. This world exists as a digital dimension on the Base Chain, where Heroes from various classes battle monsters in dangerous dungeons.
+Our current MVP includes:
+- Basic Hero minting and classes
+- Three dungeon difficulties
+- Fatigue and death systems
+- Graveyard staking
+- $EPXL token and basic economy
 
-## Core Story
+## Phase 1: Community & Marketplace (Q3 2025)
 
-Long ago, the pixel realm was a peaceful place until the "Great Corruption" began spreading, creating dangerous dungeons filled with monsters. Now, Heroes must venture into these dungeons to purify them and collect the magical essence ($EPXL) that powers the realm.
+| Feature | Description | Timeline |
+|---------|-------------|----------|
+| **Hero Marketplace** | Enable buying/selling Heroes | Month 1 |
+| **Leaderboards** | Competitive rankings | Month 2 |
+| **Hero Merging** | Combine two Heroes to create a new one | Month 3 |
+| **Enhanced Visuals** | Improved animations and effects | Ongoing |
+| **Community Events** | Weekly challenges and rewards | Ongoing |
 
-## Main Locations
+## Phase 2: Expanding Gameplay (Q4 2025)
 
-| Location | Description |
-|----------|-------------|
-| **Pixelton** | The central hub where Heroes gather |
-| **The Wilds** | Location of the Easy Dungeons |
-| **Dark Valley** | Location of the Normal Dungeons |
-| **Corrupted Peak** | Location of the Hard Dungeons |
-| **The Graveyard** | Where fallen Heroes rest and continue to contribute |
+| Feature | Description | Timeline |
+|---------|-------------|----------|
+| **Boss Dungeons** | Special time-limited dungeons with unique rewards | Month 4 |
+| **Hero Equipment** | Items to boost Hero stats | Month 5 |
+| **New Hero Classes** | Adding 2-3 new classes | Month 6 |
+| **Guild System** | Form teams with other players | Month 6 |
+| **PvP Arena** | Hero vs Hero battles | Month 7 |
 
-## Key Concepts
+## Phase 3: Ecosystem Growth (Q1 2026)
 
-- **$EPXL**: The magical essence that powers the realm
-- **Fatigue**: The drain on Heroes' life force when battling corruption
-- **Permanent Death**: Heroes who push too hard may be lost forever
-- **Graveyard**: Even in death, Heroes contribute to the realm's balance
+| Feature | Description | Timeline |
+|---------|-------------|----------|
+| **Cosmetic NFTs** | Visual customizations for Heroes | Month 8 |
+| **DAO Voting** | Community governance using $EPXL | Month 9 |
+| **Land System** | Ownable land plots with benefits | Month 10 |
+| **Mobile App** | Dedicated mobile application | Month 11 |
+| **Cross-Game Assets** | Partnerships with other NFT games | Month 12 |
 
-Learn more about the specific regions in the [World Overview](world-overview.md).
+## Long-Term Vision (Beyond 2026)
+
+Our long-term vision includes:
+- **Metaverse Integration**: Bringing Everpixel into larger ecosystems
+- **User-Generated Content**: Tools for players to create dungeons and quests
+- **Animated Series**: Expanding the lore through media
+- **Tournament System**: High-stakes competitive gameplay
+- **Real-World Events**: Connecting the digital and physical worlds
+
+## Community Input
+
+This roadmap is flexible and will evolve based on community feedback. We prioritize features that:
+1. Improve player experience
+2. Enhance economic sustainability
+3. Grow the community
+4. Push technical boundaries
+
+Join our Discord to participate in roadmap discussions and feature voting!

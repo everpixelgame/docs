@@ -40,10 +40,10 @@ You can instantly restore fatigue by spending $EPXL:
 Heroes with higher rarity and level recover fatigue faster:
 
 - **Base Recovery Rate**: Determined by rarity
-    - Common: 0% bonus
-    - Rare: +10% bonus
-    - Epic: +20% bonus
-    - Legendary: +30% bonus
+  - Common: 0% bonus
+  - Rare: +10% bonus
+  - Epic: +20% bonus
+  - Legendary: +30% bonus
 
 - **Level Bonus**: +2% recovery rate per level
 
