@@ -10,11 +10,11 @@ Dungeons are automated battle arenas where your Heroes fight enemies to earn $EP
 
 Everpixel features three dungeon types, each with different difficulty levels:
 
-| Dungeon | Entry Fee | Rewards | Death Chance |
-|---------|-----------|---------|--------------|
-| Easy | 5 $EPXL | 10 $EPXL | Base |
-| Normal | 15 $EPXL | 25 $EPXL | Base x1.5 |
-| Hard | 30 $EPXL | 50 $EPXL | Base x2 |
+| Dungeon | Entry Fee | Rewards | Death Chance | Risk/Reward Ratio |
+|---------|-----------|---------|--------------|-------------------|
+| Easy | 5 $EPXL | 10 $EPXL | Base | 2x (100% ROI) |
+| Normal | 15 $EPXL | 35 $EPXL | Base x1.5 | 2.33x (133% ROI) |
+| Hard | 30 $EPXL | 75 $EPXL | Base x2 | 2.5x (150% ROI) |
 
 > **Note:** Base death chance depends on your Hero's rarity. The dungeon multiplies this chance.
 
@@ -27,7 +27,7 @@ Rewards are calculated based on:
 
 For example:
 - Level 1 Common Hero in Easy Dungeon = 10 $EPXL
-- Level 5 Rare Hero in Normal Dungeon = 25 × (1 + 0.1 + 0.08) = 29.5 $EPXL
+- Level 5 Rare Hero in Normal Dungeon = 35 × (1 + 0.1 + 0.08) = 41.3 $EPXL
 
 ## Dungeon Battle Process
 
@@ -51,7 +51,7 @@ Each dungeon run has a chance of causing permanent death:
 
 ## Strategic Considerations
 
-- **Risk vs. Reward**: Higher difficulty dungeons offer better rewards but increase death risk
+- **Risk vs. Reward**: Higher difficulty dungeons offer significantly better rewards but increase death risk
 - **Hero Selection**: Consider using higher rarity Heroes for harder dungeons
 - **Fatigue Management**: Make sure your Hero isn't too fatigued before a run
 - **Level Advantage**: Higher level Heroes earn more rewards from the same dungeons
