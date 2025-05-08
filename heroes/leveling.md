@@ -11,7 +11,7 @@ In Everpixel, Heroes gain experience (EXP) from dungeon runs and level up over t
 - Heroes start at **Level 1**
 - Maximum level in MVP is **Level 10**
 - Each level provides permanent stat improvements
-- Leveling is independent of rarity and class
+- Leveling is independent of class but affected by rarity
 
 ## Experience Gains
 
@@ -22,6 +22,12 @@ Heroes earn EXP from completing dungeons:
 | Easy | 10 EXP |
 | Normal | 25 EXP |
 | Hard | 50 EXP |
+
+Rarity affects EXP gain:
+- Legendary: +15% EXP
+- Epic: +10% EXP
+- Rare: +5% EXP
+- Common: Standard EXP (no bonus)
 
 ## Experience Required Per Level
 
@@ -42,7 +48,7 @@ The following table shows the EXP required to reach each level:
 
 ## Level Benefits
 
-Each level provides two key benefits:
+Each level provides multiple benefits:
 
 1. **+2% Coin Drop Rate per Level**
    - Increases $EPXL rewards from dungeons
@@ -52,16 +58,38 @@ Each level provides two key benefits:
    - Improves fatigue recovery speed
    - Stacks with rarity bonuses
 
+3. **Cooldown Reduction per Level**
+   - Decreases the cooldown time between dungeon runs
+   - Reduction percentage varies by rarity:
+      - Common: 2% per level
+      - Rare: 3% per level
+      - Epic: 4% per level
+      - Legendary: 5% per level
+
+### Cooldown Duration By Level
+
+| Level | Common | Rare | Epic | Legendary |
+|-------|--------|------|------|-----------|
+| 1 | 6 hours | 6 hours | 6 hours | 6 hours |
+| 2 | 5.88 hours | 5.82 hours | 5.76 hours | 5.7 hours |
+| 3 | 5.76 hours | 5.64 hours | 5.52 hours | 5.4 hours |
+| 4 | 5.64 hours | 5.46 hours | 5.28 hours | 5.1 hours |
+| 5 | 5.52 hours | 5.28 hours | 5.04 hours | 4.8 hours |
+| 6 | 5.40 hours | 5.10 hours | 4.8 hours | 4.5 hours |
+| 7 | 5.28 hours | 4.92 hours | 4.56 hours | 4.2 hours |
+| 8 | 5.16 hours | 4.74 hours | 4.32 hours | 3.9 hours |
+| 9 | 5.04 hours | 4.56 hours | 4.08 hours | 3.6 hours |
+| 10 | 4.92 hours | 4.38 hours | 3.84 hours | 3.3 hours |
+
 ### Example Bonuses By Level
 
-| Level | Coin Drop Bonus | Recovery Bonus |
-|-------|-----------------|----------------|
-| 1 | +0% | +0% |
-| 2 | +2% | +2% |
-| 3 | +4% | +4% |
-| 5 | +8% | +8% |
-| 7 | +12% | +12% |
-| 10 | +18% | +18% |
+| Level | Coin Drop Bonus | Recovery Bonus | Cooldown Reduction (Legendary) |
+|-------|-----------------|----------------|-------------------------------|
+| 1 | +0% | +0% | 0% |
+| 3 | +4% | +4% | 10% |
+| 5 | +8% | +8% | 20% |
+| 7 | +12% | +12% | 30% |
+| 10 | +18% | +18% | 45% |
 
 ## Combined Rarity and Level Bonuses
 
@@ -81,6 +109,16 @@ When a Hero levels up:
 - Hero appearance subtly enhances
 - Level number displayed prominently
 - Stat increases are shown
+
+## Daily Dungeon Run Potential
+
+The number of dungeon runs a Hero can make in 24 hours varies by level and rarity:
+
+| Level | Common | Rare | Epic | Legendary |
+|-------|--------|------|------|-----------|
+| 1 | 4 runs | 4 runs | 4 runs | 4 runs |
+| 5 | 4.35 runs | 4.55 runs | 4.76 runs | 5 runs |
+| 10 | 4.88 runs | 5.48 runs | 6.25 runs | 7.27 runs |
 
 ## Leveling Strategy
 
@@ -113,4 +151,4 @@ When deciding whether to focus on leveling existing Heroes or mint new ones:
 | 5+ Heroes | Focus on leveling your best Heroes |
 | Limited time | Level Legendary/Epic Heroes first |
 
-Remember, higher level Heroes earn more AND have better fatigue recovery, creating a compounding benefit that makes leveling increasingly valuable over time.
+Remember, higher level Heroes earn more, have better fatigue recovery, AND have shorter cooldowns between dungeon runs, creating a compounding benefit that makes leveling increasingly valuable over time.

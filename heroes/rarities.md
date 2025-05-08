@@ -21,7 +21,8 @@ Common Heroes are the backbone of any player's collection. While they lack speci
 | Base Coin Drop | 0% | No bonus to dungeon rewards |
 | Base Recovery | 0% | Standard fatigue recovery rate |
 | Death Rate | 5% | Highest risk of permanent death |
-| Cooldown | 6 hours | Time to recover from fatigue |
+| Cooldown Reduction | 2% per level | Base cooldown decreases by 2% per level |
+| EXP Gain | No bonus | Standard experience gain |
 | Visual Features | Simple | Basic pixel designs with few details |
 
 ### Rare Heroes
@@ -37,7 +38,8 @@ Rare Heroes offer a balanced improvement over Commons, with moderate bonuses and
 | Base Coin Drop | +10% | Bonus to dungeon rewards |
 | Base Recovery | +10% | Faster fatigue recovery |
 | Death Rate | 3% | Lower risk of permanent death |
-| Cooldown | 3 hours | Time to recover from fatigue |
+| Cooldown Reduction | 3% per level | Base cooldown decreases by 3% per level |
+| EXP Gain | +5% | Faster experience gain |
 | Visual Features | Enhanced | More detailed designs with subtle effects |
 
 ### Epic Heroes
@@ -53,7 +55,8 @@ Epic Heroes provide substantial benefits across all metrics, making them highly 
 | Base Coin Drop | +20% | Significant bonus to dungeon rewards |
 | Base Recovery | +20% | Much faster fatigue recovery |
 | Death Rate | 2% | Low risk of permanent death |
-| Cooldown | 2 hours | Time to recover from fatigue |
+| Cooldown Reduction | 4% per level | Base cooldown decreases by 4% per level |
+| EXP Gain | +10% | Much faster experience gain |
 | Visual Features | Advanced | Complex designs with special effects |
 
 ### Legendary Heroes
@@ -69,10 +72,21 @@ Legendary Heroes represent the pinnacle of Everpixel gameplay, with exceptional 
 | Base Coin Drop | +30% | Maximum bonus to dungeon rewards |
 | Base Recovery | +30% | Fastest fatigue recovery |
 | Death Rate | 1% | Lowest risk of permanent death |
-| Cooldown | 1 hour | Time to recover from fatigue |
+| Cooldown Reduction | 5% per level | Base cooldown decreases by 5% per level |
+| EXP Gain | +15% | Fastest experience gain |
 | Visual Features | Premium | Elaborate designs with animated elements |
 
-## Combined Rarity & Level Bonuses
+## Cooldown Duration By Level
+
+All Heroes start with a base cooldown of 6 hours at Level 1. As they level up, this cooldown decreases at different rates based on rarity:
+
+| Level | Common | Rare | Epic | Legendary |
+|-------|--------|------|------|-----------|
+| 1 | 6 hours | 6 hours | 6 hours | 6 hours |
+| 5 | 5.52 hours | 5.28 hours | 5.04 hours | 4.8 hours |
+| 10 | 4.92 hours | 4.38 hours | 3.84 hours | 3.3 hours |
+
+## Combined Rarity and Level Bonuses
 
 As Heroes level up, their rarity bonuses combine with level bonuses:
 

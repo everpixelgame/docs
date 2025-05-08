@@ -40,21 +40,28 @@
 
 ## Step 5: Manage Your Hero
 
-### Check Fatigue:
+### Understanding Fatigue and Cooldown:
 1. Go to "Heroes" section
-2. View your Hero's fatigue meter
-3. If fatigued, either wait for the cooldown period or restore using $EPXL
+2. View your Hero's fatigue meter and cooldown timer
+3. All Heroes start with a 6-hour cooldown at Level 1
+4. As Heroes level up, this cooldown decreases at different rates based on rarity:
+    - Common: 2% reduction per level
+    - Rare: 3% reduction per level
+    - Epic: 4% reduction per level
+    - Legendary: 5% reduction per level
+5. You can either wait for the cooldown to pass or restore energy using $EPXL
 
 ### Level Up:
 1. Heroes gain EXP from dungeons automatically
 2. Check progress in the Heroes section
 3. When enough EXP is earned, your Hero levels up
 4. Each level adds +2% to rewards and recovery rate
+5. Each level reduces cooldown time by a percentage based on rarity
 
 ## Step 6: Understanding Risks
 
 Remember these important risks:
-- **Fatigue Cooldown**: Heroes need time to recover based on their rarity
+- **Fatigue Cooldown**: Heroes need time to recover based on cooldown timer
 - **Death Risk**: Each dungeon run has a chance of permanent death
 - **Risk vs. Reward**: Harder dungeons = better rewards but higher death chance
 
@@ -63,17 +70,27 @@ Remember these important risks:
 | Tip | Description |
 |-----|-------------|
 | **Start Safe** | Use Easy dungeons until you understand the game |
-| **Manage Fatigue** | Don't always restore fatigue - sometimes waiting is better |
-| **Rarity Matters** | Higher rarity Heroes earn more and have lower death rates |
+| **Manage Cooldowns** | Plan your play sessions around cooldown timers |
+| **Prioritize Leveling** | Higher levels mean faster cooldown recovery |
+| **Rarity Matters** | Higher rarity Heroes earn more, have lower death rates, and get better cooldown reduction |
 | **Save for Minting** | Try to save USDC to mint more Heroes early |
 | **Join Discord** | Connect with other players for more tips |
+
+## Cooldown Duration Examples
+
+| Rarity | Level 1 | Level 5 | Level 10 |
+|--------|---------|---------|----------|
+| Common | 6 hours | 5.52 hours | 4.92 hours |
+| Rare | 6 hours | 5.28 hours | 4.38 hours |
+| Epic | 6 hours | 5.04 hours | 3.84 hours |
+| Legendary | 6 hours | 4.8 hours | 3.3 hours |
 
 ## Next Steps
 
 Once you're comfortable with the basics:
 - Mint more Heroes to build your roster
 - Try Normal and Hard dungeons for better rewards
-- Level up your Heroes to increase earnings
+- Level up your Heroes to reduce cooldown times
 - Invite friends with your referral link
 - Check out the [Advanced Strategies](strategies.md) guide
 

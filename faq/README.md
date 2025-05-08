@@ -39,12 +39,14 @@ All Heroes are useful! Lower rarity Heroes still earn rewards and can be strateg
 ### How do battles work?
 Battles are automatic - your Hero's stats and abilities determine the outcome. You don't need to actively participate in the combat.
 
-### How often can I send my Hero to dungeons?
-It depends on your Hero's rarity cooldown time:
-- Common: 6 hour cooldown
-- Rare: 3 hour cooldown
-- Epic: 2 hour cooldown
-- Legendary: 1 hour cooldown
+### How does the cooldown system work?
+All Heroes start with a 6-hour cooldown at Level 1. As they level up, this cooldown decreases by a percentage based on their rarity:
+- Common: 2% reduction per level
+- Rare: 3% reduction per level
+- Epic: 4% reduction per level
+- Legendary: 5% reduction per level
+
+For example, a Level 10 Legendary Hero will have a 3.3-hour cooldown (45% reduction from 6 hours).
 
 ### What happens when my Hero dies?
 Death is permanent! Your Hero will be moved to the Graveyard, where they become a staker earning passive $EPXL rewards.

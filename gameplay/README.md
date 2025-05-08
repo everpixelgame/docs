@@ -26,7 +26,12 @@ Dungeons are where your Heroes battle enemies and earn rewards:
 ### 2. Fatigue System
 
 Heroes get tired after dungeon runs:
-- Each Hero has a cooldown period based on rarity (Common: 6h, Rare: 3h, Epic: 2h, Legendary: 1h)
+- All Heroes start with a 6-hour cooldown at Level 1
+- Cooldown decreases as Heroes level up, with higher rarity Heroes gaining larger reductions:
+    - Common: 2% reduction per level
+    - Rare: 3% reduction per level
+    - Epic: 4% reduction per level
+    - Legendary: 5% reduction per level
 - Restore fatigue by spending $EPXL
 - Cost is based on Hero's level and rarity
 
@@ -45,6 +50,7 @@ These systems all connect to create a balanced economy:
 - Fatigue and dungeon entry fees create $EPXL burning mechanisms
 - Death risk creates strategic choices about which Heroes to use
 - The Graveyard ensures even dead Heroes retain value
+- Leveling provides gradual cooldown reduction based on rarity, creating long-term value
 
 ## Quick Links
 - [Dungeon System](dungeons.md)

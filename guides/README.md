@@ -43,12 +43,21 @@ Each guide includes:
 
 ### Hero Basics
 
-| Rarity | Death Risk | Cooldown | Base Bonus |
-|--------|------------|----------|------------|
-| Common | 5% | 6 hours | 0% |
-| Rare | 3% | 3 hours | +10% |
-| Epic | 2% | 2 hours | +20% |
-| Legendary | 1% | 1 hour | +30% |
+| Rarity | Death Risk | Cooldown Reduction | Base Bonus |
+|--------|------------|-------------------|------------|
+| Common | 5% | 2% per level | 0% |
+| Rare | 3% | 3% per level | +10% |
+| Epic | 2% | 4% per level | +20% |
+| Legendary | 1% | 5% per level | +30% |
+
+### Cooldown Duration at Level 10
+
+| Rarity | Level 1 | Level 10 | Daily Runs (L10) |
+|--------|---------|----------|-----------------|
+| Common | 6 hours | 4.92 hours | 4.88 runs |
+| Rare | 6 hours | 4.38 hours | 5.48 runs |
+| Epic | 6 hours | 3.84 hours | 6.25 runs |
+| Legendary | 6 hours | 3.3 hours | 7.27 runs |
 
 ### Dungeon Overview
 
