@@ -29,6 +29,28 @@ Rarity affects EXP gain:
 - Rare: +5% EXP
 - Common: Standard EXP (no bonus)
 
+### EXP Gain Calculation Examples
+
+**Example 1:** Common Hero in Easy Dungeon
+- Base EXP: 10 EXP
+- Rarity Bonus: 0% (Common)
+- Total EXP: 10 EXP
+
+**Example 2:** Rare Hero in Normal Dungeon
+- Base EXP: 25 EXP
+- Rarity Bonus: +5% (Rare)
+- Total EXP: 25 × 1.05 = 26.25 EXP
+
+**Example 3:** Epic Hero in Hard Dungeon
+- Base EXP: 50 EXP
+- Rarity Bonus: +10% (Epic)
+- Total EXP: 50 × 1.1 = 55 EXP
+
+**Example 4:** Legendary Hero in Hard Dungeon
+- Base EXP: 50 EXP
+- Rarity Bonus: +15% (Legendary)
+- Total EXP: 50 × 1.15 = 57.5 EXP
+
 ## Experience Required Per Level
 
 The following table shows the EXP required to reach each level:
@@ -46,6 +68,18 @@ The following table shows the EXP required to reach each level:
 | 9 | 2,200 | 450 |
 | 10 | 2,700 | 500 |
 
+### Leveling Time Examples
+
+**Example 1:** Common Hero running Easy Dungeons
+- EXP per run: 10 EXP
+- EXP needed for Level 10: 2,700 EXP
+- Dungeon runs needed: 2,700 ÷ 10 = 270 runs
+
+**Example 2:** Legendary Hero running Hard Dungeons
+- EXP per run: 50 × 1.15 = 57.5 EXP
+- EXP needed for Level 10: 2,700 EXP
+- Dungeon runs needed: 2,700 ÷ 57.5 ≈ 47 runs
+
 ## Level Benefits
 
 Each level provides multiple benefits:
@@ -56,7 +90,6 @@ Each level provides multiple benefits:
 
 2. **+2% Recovery Rate per Level**
    - Improves fatigue recovery speed
-   - Stacks with rarity bonuses
 
 3. **Cooldown Reduction per Level**
    - Decreases the cooldown time between dungeon runs
@@ -81,6 +114,20 @@ Each level provides multiple benefits:
 | 9 | 5.04 hours | 4.56 hours | 4.08 hours | 3.6 hours |
 | 10 | 4.92 hours | 4.38 hours | 3.84 hours | 3.3 hours |
 
+### Cooldown Reduction Calculation Examples
+
+**Example 1:** Level 5 Common Hero
+- Base Cooldown: 6 hours
+- Reduction per Level: 2%
+- Total Reduction: 2% × 5 = 10%
+- Final Cooldown: 6 × (1 - 0.10) = 5.4 hours
+
+**Example 2:** Level 10 Legendary Hero
+- Base Cooldown: 6 hours
+- Reduction per Level: 5%
+- Total Reduction: 5% × 10 = 50%
+- Final Cooldown: 6 × (1 - 0.50) = 3 hours
+
 ### Example Bonuses By Level
 
 | Level | Coin Drop Bonus | Recovery Bonus | Cooldown Reduction (Legendary) |
@@ -95,12 +142,37 @@ Each level provides multiple benefits:
 
 Rarity base bonuses stack with level bonuses for powerful combinations:
 
-| Hero Type | Base + Level 10 | Total Drop Rate | Total Recovery Rate |
-|-----------|----------------|-----------------|---------------------|
-| Common L10 | 0% + 18% | +18% | +18% |
-| Rare L10 | 10% + 18% | +28% | +28% |
-| Epic L10 | 20% + 18% | +38% | +38% |
-| Legendary L10 | 30% + 18% | +48% | +48% |
+| Hero Type | Base + Level 10 | Total Drop Rate |
+|-----------|----------------|-----------------|
+| Common L10 | 0% + 18% | +18% |
+| Rare L10 | 10% + 18% | +28% |
+| Epic L10 | 20% + 18% | +38% |
+| Legendary L10 | 30% + 18% | +48% |
+
+### Reward Calculation Examples
+
+Assuming base dungeon rewards: Easy = 10 $EPXL, Normal = 25 $EPXL, Hard = 50 $EPXL
+
+**Example 1:** Level 8 Common Hero in Normal Dungeon
+- Base Reward: 25 $EPXL
+- Level Bonus: 2% × 8 = 16%
+- Rarity Bonus: 0% (Common)
+- Total Bonus: 16%
+- Final Reward: 25 × 1.16 = 29 $EPXL
+
+**Example 2:** Level 10 Rare Hero in Hard Dungeon
+- Base Reward: 50 $EPXL
+- Level Bonus: 2% × 10 = 20%
+- Rarity Bonus: 10% (Rare)
+- Total Bonus: 30%
+- Final Reward: 50 × 1.3 = 65 $EPXL
+
+**Example 3:** Level 10 Legendary Hero in Hard Dungeon
+- Base Reward: 50 $EPXL
+- Level Bonus: 2% × 10 = 20%
+- Rarity Bonus: 30% (Legendary)
+- Total Bonus: 50%
+- Final Reward: 50 × 1.5 = 75 $EPXL
 
 ## Level-Up Visual Effects
 
@@ -119,6 +191,16 @@ The number of dungeon runs a Hero can make in 24 hours varies by level and rarit
 | 1 | 4 runs | 4 runs | 4 runs | 4 runs |
 | 5 | 4.35 runs | 4.55 runs | 4.76 runs | 5 runs |
 | 10 | 4.88 runs | 5.48 runs | 6.25 runs | 7.27 runs |
+
+### Daily Runs Calculation Examples
+
+**Example 1:** Level 10 Common Hero
+- Cooldown: 4.92 hours
+- Daily Runs: 24 ÷ 4.92 = 4.88 runs per day
+
+**Example 2:** Level 10 Legendary Hero
+- Cooldown: 3.3 hours
+- Daily Runs: 24 ÷ 3.3 = 7.27 runs per day
 
 ## Leveling Strategy
 
@@ -139,6 +221,20 @@ The number of dungeon runs a Hero can make in 24 hours varies by level and rarit
 | Rare | +2.8 $EPXL/day | 64 days |
 | Epic | +3.8 $EPXL/day | 47 days |
 | Legendary | +4.8 $EPXL/day | 38 days |
+
+### ROI Calculation Examples
+
+**Example 1:** Level 10 vs Level 1 Common Hero running Easy Dungeons 4 times daily
+- Level 1 Earnings: 4 runs × 10 $EPXL = 40 $EPXL
+- Level 10 Earnings: 4.88 runs × (10 × 1.18) = 57.58 $EPXL
+- Extra Daily Earnings: 57.58 - 40 = 17.58 $EPXL
+- Assuming leveling cost of ~1,800 $EPXL: 1,800 ÷ 17.58 ≈ 102 days to ROI
+
+**Example 2:** Level 10 vs Level 1 Legendary Hero running Hard Dungeons
+- Level 1 Earnings: 4 runs × (50 × 1.3) = 260 $EPXL
+- Level 10 Earnings: 7.27 runs × (50 × 1.48) = 538 $EPXL
+- Extra Daily Earnings: 538 - 260 = 278 $EPXL
+- Assuming leveling cost of ~3,500 $EPXL: 3,500 ÷ 278 ≈ 13 days to ROI
 
 ### Leveling or New Hero?
 

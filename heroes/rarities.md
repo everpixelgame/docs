@@ -19,7 +19,6 @@ Common Heroes are the backbone of any player's collection. While they lack speci
 | Attribute | Value | Description |
 |-----------|-------|-------------|
 | Base Coin Drop | 0% | No bonus to dungeon rewards |
-| Base Recovery | 0% | Standard fatigue recovery rate |
 | Death Rate | 5% | Highest risk of permanent death |
 | Cooldown Reduction | 2% per level | Base cooldown decreases by 2% per level |
 | EXP Gain | No bonus | Standard experience gain |
@@ -36,7 +35,6 @@ Rare Heroes offer a balanced improvement over Commons, with moderate bonuses and
 | Attribute | Value | Description |
 |-----------|-------|-------------|
 | Base Coin Drop | +10% | Bonus to dungeon rewards |
-| Base Recovery | +10% | Faster fatigue recovery |
 | Death Rate | 3% | Lower risk of permanent death |
 | Cooldown Reduction | 3% per level | Base cooldown decreases by 3% per level |
 | EXP Gain | +5% | Faster experience gain |
@@ -53,7 +51,6 @@ Epic Heroes provide substantial benefits across all metrics, making them highly 
 | Attribute | Value | Description |
 |-----------|-------|-------------|
 | Base Coin Drop | +20% | Significant bonus to dungeon rewards |
-| Base Recovery | +20% | Much faster fatigue recovery |
 | Death Rate | 2% | Low risk of permanent death |
 | Cooldown Reduction | 4% per level | Base cooldown decreases by 4% per level |
 | EXP Gain | +10% | Much faster experience gain |
@@ -70,7 +67,6 @@ Legendary Heroes represent the pinnacle of Everpixel gameplay, with exceptional 
 | Attribute | Value | Description |
 |-----------|-------|-------------|
 | Base Coin Drop | +30% | Maximum bonus to dungeon rewards |
-| Base Recovery | +30% | Fastest fatigue recovery |
 | Death Rate | 1% | Lowest risk of permanent death |
 | Cooldown Reduction | 5% per level | Base cooldown decreases by 5% per level |
 | EXP Gain | +15% | Fastest experience gain |

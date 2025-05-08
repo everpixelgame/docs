@@ -28,9 +28,9 @@ Heroes come in 3 classes and 4 rarity levels:
 | Rarity | Drop Rate | Base Bonuses | Death Rate | Cooldown Reduction |
 |--------|-----------|--------------|------------|-------------------|
 | Common | 60% | No bonus | 5% | 2% per level |
-| Rare | 25% | +10% rewards, +10% recovery | 3% | 3% per level |
-| Epic | 10% | +20% rewards, +20% recovery | 2% | 4% per level |
-| Legendary | 5% | +30% rewards, +30% recovery | 1% | 5% per level |
+| Rare | 25% | +10% rewards | 3% | 3% per level |
+| Epic | 10% | +20% rewards | 2% | 4% per level |
+| Legendary | 5% | +30% rewards | 1% | 5% per level |
 
 ### Hero Progression
 
