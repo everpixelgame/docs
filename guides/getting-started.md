@@ -14,7 +14,7 @@
 ### For Minting Heroes (USDC):
 1. You'll need USDC on Base Chain
 2. Transfer USDC to your wallet or bridge from another chain
-3. Each Hero costs 60 USDC to mint
+3. Each Hero costs 50 USDC to mint
 
 ### For Playing (Small amount of $EPXL):
 1. Click "Buy $EPXL" in the navbar
@@ -25,7 +25,7 @@
 
 1. Go to the "Heroes" section
 2. Click "Mint New Hero"
-3. Confirm the 60 USDC transaction
+3. Confirm the 50 USDC transaction
 4. Wait for the transaction to complete
 5. See what Hero you got!
 
@@ -43,7 +43,7 @@
 ### Check Fatigue:
 1. Go to "Heroes" section
 2. View your Hero's fatigue meter
-3. If fatigued, either wait 6 hours or restore using $EPXL
+3. If fatigued, either wait for the cooldown period or restore using $EPXL
 
 ### Level Up:
 1. Heroes gain EXP from dungeons automatically
@@ -54,7 +54,7 @@
 ## Step 6: Understanding Risks
 
 Remember these important risks:
-- **Fatigue Limits**: Heroes can only run limited dungeons every 6 hours
+- **Fatigue Cooldown**: Heroes need time to recover based on their rarity
 - **Death Risk**: Each dungeon run has a chance of permanent death
 - **Risk vs. Reward**: Harder dungeons = better rewards but higher death chance
 

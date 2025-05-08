@@ -43,20 +43,20 @@ Each guide includes:
 
 ### Hero Basics
 
-| Rarity | Death Risk | Dungeon Limit | Base Bonus |
-|--------|------------|---------------|------------|
-| Common | 5% | 1 per 6h | 0% |
-| Rare | 3% | 2 per 6h | +10% |
-| Epic | 2% | 3 per 6h | +20% |
-| Legendary | 1% | 5 per 6h | +30% |
+| Rarity | Death Risk | Cooldown | Base Bonus |
+|--------|------------|----------|------------|
+| Common | 5% | 6 hours | 0% |
+| Rare | 3% | 3 hours | +10% |
+| Epic | 2% | 2 hours | +20% |
+| Legendary | 1% | 1 hour | +30% |
 
 ### Dungeon Overview
 
-| Dungeon | Entry Fee | Reward Multiplier | Death Risk |
-|---------|-----------|-------------------|------------|
-| Easy | 5 $EPXL | 1x | Base |
-| Normal | 15 $EPXL | 2.5x | Base x1.5 |
-| Hard | 30 $EPXL | 5x | Base x2 |
+| Dungeon | Entry Fee | Rewards | Death Risk |
+|---------|-----------|---------|------------|
+| Easy | 5 $EPXL | 10 $EPXL | Base |
+| Normal | 15 $EPXL | 25 $EPXL | Base x1.5 |
+| Hard | 30 $EPXL | 50 $EPXL | Base x2 |
 
 ## Video Tutorials
 

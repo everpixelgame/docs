@@ -10,24 +10,24 @@ Dungeons are automated battle arenas where your Heroes fight enemies to earn $EP
 
 Everpixel features three dungeon types, each with different difficulty levels:
 
-| Dungeon | Entry Fee | Reward Multiplier | Death Chance |
-|---------|-----------|-------------------|--------------|
-| Easy | 5 $EPXL | 1x | Base |
-| Normal | 15 $EPXL | 2.5x | Base x1.5 |
-| Hard | 30 $EPXL | 5x | Base x2 |
+| Dungeon | Entry Fee | Rewards | Death Chance |
+|---------|-----------|---------|--------------|
+| Easy | 5 $EPXL | 10 $EPXL | Base |
+| Normal | 15 $EPXL | 25 $EPXL | Base x1.5 |
+| Hard | 30 $EPXL | 50 $EPXL | Base x2 |
 
 > **Note:** Base death chance depends on your Hero's rarity. The dungeon multiplies this chance.
 
 ## Reward System
 
 Rewards are calculated based on:
-1. Dungeon difficulty (reward multiplier)
+1. Dungeon difficulty (reward amount)
 2. Hero's rarity (base drop bonus)
 3. Hero's level (+2% per level)
 
 For example:
 - Level 1 Common Hero in Easy Dungeon = 10 $EPXL
-- Level 5 Rare Hero in Normal Dungeon = 10 × 2.5 × (1 + 0.1 + 0.08) = 29.5 $EPXL
+- Level 5 Rare Hero in Normal Dungeon = 25 × (1 + 0.1 + 0.08) = 29.5 $EPXL
 
 ## Dungeon Battle Process
 

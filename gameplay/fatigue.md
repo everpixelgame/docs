@@ -6,32 +6,28 @@
 
 Fatigue represents your Hero's energy and stamina. Each time a Hero enters a dungeon, they use energy and become more fatigued. Heroes with too much fatigue can't enter dungeons until they recover.
 
-## Fatigue Limits
+## Fatigue Cooldown
 
-Each Hero has a maximum number of dungeon runs they can perform every 6 hours:
+Each Hero has a cooldown period after dungeon runs:
 
-| Rarity | Dungeon Runs (per 6 hours) |
-|--------|----------------------------|
-| Common | 1 |
-| Rare | 2 |
-| Epic | 3 |
-| Legendary | 5 |
+| Rarity | Cooldown Hours |
+|--------|----------------|
+| Common | 6 hours |
+| Rare | 3 hours |
+| Epic | 2 hours |
+| Legendary | 1 hour |
 
 Once a Hero reaches their fatigue limit, they can't enter dungeons until:
-1. The 6-hour cooldown period passes, OR
+1. The cooldown period passes, OR
 2. You restore their energy using $EPXL
 
 ## Restoring Fatigue
 
-You can instantly restore fatigue by spending $EPXL:
+You can instantly restore fatigue by spending $EPXL. The cost is calculated based on the Hero's level and rarity.
 
-| Restore Count (Today) | Cost |
-|-----------------------|------|
-| 1st restore | 5 $EPXL |
-| 2nd restore | 8 $EPXL |
-| 3rd restore | 12 $EPXL |
-| 4th restore | 16 $EPXL |
-| 5th+ restore | 20 $EPXL |
+The formula takes into account:
+- Hero's rarity (higher rarity = higher cost)
+- Hero's level (higher level = higher cost)
 
 **Important:** 100% of $EPXL spent on fatigue restoration is burned from the supply.
 
@@ -54,7 +50,7 @@ For example, a Level 5 Epic Hero would have:
 
 ## Strategic Fatigue Management
 
-- **Plan your dungeon runs** around the 6-hour cooldown
+- **Plan your dungeon runs** around the cooldown period
 - **Use higher rarity Heroes** for more frequent dungeon runs
 - **Consider the cost** of fatigue restoration versus potential rewards
 - **Level up your Heroes** to improve their recovery rates

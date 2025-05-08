@@ -28,8 +28,5 @@
   * [Getting Started](guides/getting-started.md)
   * [Advanced Strategies](guides/strategies.md)
 
-## Development
-* [Roadmap](roadmap/README.md)
-
 ## Help
 * [FAQ](faq/README.md)

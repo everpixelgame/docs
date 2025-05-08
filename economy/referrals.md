@@ -11,7 +11,7 @@ The Everpixel referral system allows players to earn rewards by inviting friends
 1. **Get Your Referral Link/Code**: Each player has a unique referral ID
 2. **Share with Friends**: Send your link to friends through social media, messaging, etc.
 3. **Friends Join**: When they start playing, they enter your referral code
-4. **Earn Rewards**: You receive 1% of all the $EPXL your referred friends spend in-game
+4. **Earn Rewards**: You receive 3% of all the $EPXL your referred friends spend in-game
 
 ## Technical Implementation
 
@@ -23,12 +23,12 @@ The referral system is implemented directly on-chain:
 
 ## Reward Calculation Example
 
-| Friend's Action | $EPXL Spent | Your Reward (1%) |
+| Friend's Action | $EPXL Spent | Your Reward (3%) |
 |-----------------|-------------|------------------|
-| Enters Easy Dungeon | 5 $EPXL | 0.05 $EPXL |
-| Recovers Fatigue | 10 $EPXL | 0.1 $EPXL |
-| Enters Hard Dungeon | 30 $EPXL | 0.3 $EPXL |
-| **Monthly Total** | **1,000 $EPXL** | **10 $EPXL** |
+| Enters Easy Dungeon | 5 $EPXL | 0.15 $EPXL |
+| Recovers Fatigue | 10 $EPXL | 0.3 $EPXL |
+| Enters Hard Dungeon | 30 $EPXL | 0.9 $EPXL |
+| **Monthly Total** | **1,000 $EPXL** | **30 $EPXL** |
 
 ## Referral Dashboard
 
@@ -52,9 +52,9 @@ The more active players you refer, the more your passive income grows:
 
 | Number of Active Referrals | Average Monthly Spend | Your Monthly Income |
 |----------------------------|----------------------|---------------------|
-| 5 | 1,000 $EPXL | 50 $EPXL |
-| 10 | 1,000 $EPXL | 100 $EPXL |
-| 50 | 1,000 $EPXL | 500 $EPXL |
-| 100 | 1,000 $EPXL | 1,000 $EPXL |
+| 5 | 1,000 $EPXL | 150 $EPXL |
+| 10 | 1,000 $EPXL | 300 $EPXL |
+| 50 | 1,000 $EPXL | 1,500 $EPXL |
+| 100 | 1,000 $EPXL | 3,000 $EPXL |
 
 By building a strong network of active players, you can create a sustainable passive income stream through the referral program.

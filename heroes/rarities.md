@@ -21,7 +21,7 @@ Common Heroes are the backbone of any player's collection. While they lack speci
 | Base Coin Drop | 0% | No bonus to dungeon rewards |
 | Base Recovery | 0% | Standard fatigue recovery rate |
 | Death Rate | 5% | Highest risk of permanent death |
-| Dungeon Limit | 1 | Can run 1 dungeon per 6 hours |
+| Cooldown | 6 hours | Time to recover from fatigue |
 | Visual Features | Simple | Basic pixel designs with few details |
 
 ### Rare Heroes
@@ -37,7 +37,7 @@ Rare Heroes offer a balanced improvement over Commons, with moderate bonuses and
 | Base Coin Drop | +10% | Bonus to dungeon rewards |
 | Base Recovery | +10% | Faster fatigue recovery |
 | Death Rate | 3% | Lower risk of permanent death |
-| Dungeon Limit | 2 | Can run 2 dungeons per 6 hours |
+| Cooldown | 3 hours | Time to recover from fatigue |
 | Visual Features | Enhanced | More detailed designs with subtle effects |
 
 ### Epic Heroes
@@ -53,7 +53,7 @@ Epic Heroes provide substantial benefits across all metrics, making them highly 
 | Base Coin Drop | +20% | Significant bonus to dungeon rewards |
 | Base Recovery | +20% | Much faster fatigue recovery |
 | Death Rate | 2% | Low risk of permanent death |
-| Dungeon Limit | 3 | Can run 3 dungeons per 6 hours |
+| Cooldown | 2 hours | Time to recover from fatigue |
 | Visual Features | Advanced | Complex designs with special effects |
 
 ### Legendary Heroes
@@ -69,7 +69,7 @@ Legendary Heroes represent the pinnacle of Everpixel gameplay, with exceptional 
 | Base Coin Drop | +30% | Maximum bonus to dungeon rewards |
 | Base Recovery | +30% | Fastest fatigue recovery |
 | Death Rate | 1% | Lowest risk of permanent death |
-| Dungeon Limit | 5 | Can run 5 dungeons per 6 hours |
+| Cooldown | 1 hour | Time to recover from fatigue |
 | Visual Features | Premium | Elaborate designs with animated elements |
 
 ## Combined Rarity & Level Bonuses
@@ -122,9 +122,4 @@ Different rarities are suited for different strategies:
 
 | Rarity | Best Use |
 |--------|----------|
-| Common | Low-risk Easy dungeon runs, entry-level play |
-| Rare | Balanced approach for medium-risk dungeons |
-| Epic | Optimal efficiency for active players |
-| Legendary | High-value targets for Hard dungeons, maximum earnings |
-
-Each rarity has its place in a well-rounded collection. While higher rarities are obviously better, Common Heroes can be profitable too when used strategically!
+| Common | Low-risk Easy dungeon runs, entry-

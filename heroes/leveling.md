@@ -23,10 +23,6 @@ Heroes earn EXP from completing dungeons:
 | Normal | 25 EXP |
 | Hard | 50 EXP |
 
-Classes may affect EXP gains:
-- **Mages** gain +20% bonus EXP
-- **Warriors** and **Archers** gain standard EXP
-
 ## Experience Required Per Level
 
 The following table shows the EXP required to reach each level:
@@ -49,12 +45,12 @@ The following table shows the EXP required to reach each level:
 Each level provides two key benefits:
 
 1. **+2% Coin Drop Rate per Level**
-    - Increases $EPXL rewards from dungeons
-    - Stacks with rarity bonuses
+   - Increases $EPXL rewards from dungeons
+   - Stacks with rarity bonuses
 
 2. **+2% Recovery Rate per Level**
-    - Improves fatigue recovery speed
-    - Stacks with rarity bonuses
+   - Improves fatigue recovery speed
+   - Stacks with rarity bonuses
 
 ### Example Bonuses By Level
 
@@ -78,18 +74,6 @@ Rarity base bonuses stack with level bonuses for powerful combinations:
 | Epic L10 | 20% + 18% | +38% | +38% |
 | Legendary L10 | 30% + 18% | +48% | +48% |
 
-## Accelerated Leveling
-
-Players can spend $EPXL to accelerate the leveling process:
-
-| Current Level | EXP Boost | Cost ($EPXL) |
-|--------------|-----------|--------------|
-| 1-3 | +50 EXP | 10 $EPXL |
-| 4-6 | +50 EXP | 20 $EPXL |
-| 7-9 | +50 EXP | 30 $EPXL |
-
-**Important:** 100% of $EPXL spent on leveling is burned from the supply.
-
 ## Level-Up Visual Effects
 
 When a Hero levels up:
@@ -104,23 +88,23 @@ When a Hero levels up:
 
 | Hero Type | Recommended Approach |
 |-----------|---------------------|
-| Common | Natural leveling, minimal acceleration |
-| Rare | Moderate acceleration to Level 5-7 |
-| Epic | Accelerated leveling to Level 8+ |
-| Legendary | Maximum acceleration to Level 10 ASAP |
+| Common | Natural leveling through dungeons |
+| Rare | Prioritize dungeon runs |
+| Epic | Focus on leveling to 8+ |
+| Legendary | Prioritize leveling to 10 ASAP |
 
 ### ROI Calculation
 
-| Hero | Cost to L10 | Extra Daily Earnings | Days to ROI |
-|------|-------------|----------------------|-------------|
-| Common | 180 $EPXL | +1.8 $EPXL/day | 100 days |
-| Rare | 180 $EPXL | +2.8 $EPXL/day | 64 days |
-| Epic | 180 $EPXL | +3.8 $EPXL/day | 47 days |
-| Legendary | 180 $EPXL | +4.8 $EPXL/day | 38 days |
+| Hero | Extra Daily Earnings at L10 | Days to ROI |
+|------|----------------------------|-------------|
+| Common | +1.8 $EPXL/day | 100 days |
+| Rare | +2.8 $EPXL/day | 64 days |
+| Epic | +3.8 $EPXL/day | 47 days |
+| Legendary | +4.8 $EPXL/day | 38 days |
 
 ### Leveling or New Hero?
 
-When deciding whether to level up existing Heroes or mint new ones:
+When deciding whether to focus on leveling existing Heroes or mint new ones:
 
 | Situation | Recommendation |
 |-----------|---------------|

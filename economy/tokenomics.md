@@ -11,8 +11,7 @@ $EPXL is the primary token used in Everpixel. It functions as both a utility tok
 | Usage | Details | Burn Rate |
 |-------|---------|-----------|
 | Dungeon Entry | 5-30 $EPXL depending on difficulty | 95% burned, 5% to treasury |
-| Fatigue Recovery | 5-20 $EPXL depending on frequency | 100% burned |
-| Level Acceleration | Variable based on current level | 100% burned |
+| Fatigue Recovery | Cost depends on Hero level and rarity | 100% burned |
 | Future: Marketplace Fees | Trading Heroes and items | TBD |
 | Future: Cosmetic Items | Skins, effects, etc. | TBD |
 | Future: DAO Voting | Governance participation | No burn |
@@ -22,7 +21,7 @@ $EPXL is the primary token used in Everpixel. It functions as both a utility tok
 Players can earn $EPXL through:
 - **Dungeon Rewards**: Primary earning method
 - **Graveyard Staking**: Passive income from dead Heroes
-- **Referral Program**: 1% of referred players' $EPXL spending
+- **Referral Program**: 3% of referred players' $EPXL spending
 
 ## Token Distribution
 
@@ -39,10 +38,9 @@ Players can earn $EPXL through:
 ### 1. Burn Mechanisms
 
 $EPXL features aggressive burning to control inflation:
-- **Hero Mint**: 20 USDC from each 60 USDC mint buys and burns $EPXL
+- **Hero Mint**: $20 USDC from each $50 mint buys and burns $EPXL from Uniswap pool
 - **Dungeon Entry**: 95% of fees burned
 - **Fatigue Recovery**: 100% of fees burned
-- **Level Acceleration**: 100% of fees burned
 
 ### 2. Locked Rewards
 
@@ -56,3 +54,5 @@ $EPXL features aggressive burning to control inflation:
 - Supports long-term game development and economy management
 
 ## Token Flow Visualization
+
+The economy creates a sustainable loop where tokens flow from players to the system and back again in carefully controlled amounts. This balanced approach ensures that $EPXL maintains value over time while rewarding active participants in the ecosystem.

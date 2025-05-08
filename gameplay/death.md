@@ -30,8 +30,11 @@ When Heroes die, they're not completely useless! They enter the Graveyard and be
 
 ### How Graveyard Staking Works
 
-1. Dead Heroes earn random $EPXL rewards every X blocks
-2. Rewards are based on:
+When Heroes die and enter the Graveyard:
+- 20% of all $EPXL spent in the game goes to the Graveyard staking pool
+- Dead Heroes earn rewards from this pool based on their proportion of the total staking power
+- Rewards increase over time based on block number and the current size of the pool
+- Rewards are based on:
    - **Hero Rarity**: Higher rarity = better rewards
    - **Dungeon Difficulty**: Heroes that died in harder dungeons earn more
    - **Time in Graveyard**: Longer staking = improved rewards

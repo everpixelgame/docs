@@ -6,7 +6,7 @@
 Everpixel is a 2D Pixel Art Auto-Battle game on Base Chain where you mint Heroes, send them to Dungeons, earn $EPXL tokens, and manage risks from Fatigue and Permanent Death.
 
 ### Is this a free-to-play game?
-No, you need to mint at least one Hero to play, which costs 60 USDC. After that, you'll need some $EPXL tokens to enter dungeons.
+No, you need to mint at least one Hero to play, which costs 50 USDC. After that, you'll need some $EPXL tokens to enter dungeons.
 
 ### What blockchain is Everpixel on?
 Everpixel runs on Base Chain, an Ethereum L2 scaling solution.
@@ -17,7 +17,7 @@ Yes! Everpixel works on mobile browsers with wallet connections like MetaMask Mo
 ## Heroes & Minting
 
 ### How much does it cost to mint a Hero?
-Minting a Hero costs 60 USDC.
+Minting a Hero costs 50 USDC.
 
 ### Can I choose my Hero's class and rarity?
 No, both class and rarity are randomly assigned during minting.
@@ -40,11 +40,11 @@ All Heroes are useful! Lower rarity Heroes still earn rewards and can be strateg
 Battles are automatic - your Hero's stats and abilities determine the outcome. You don't need to actively participate in the combat.
 
 ### How often can I send my Hero to dungeons?
-It depends on your Hero's rarity:
-- Common: 1 dungeon per 6 hours
-- Rare: 2 dungeons per 6 hours
-- Epic: 3 dungeons per 6 hours
-- Legendary: 5 dungeons per 6 hours
+It depends on your Hero's rarity cooldown time:
+- Common: 6 hour cooldown
+- Rare: 3 hour cooldown
+- Epic: 2 hour cooldown
+- Legendary: 1 hour cooldown
 
 ### What happens when my Hero dies?
 Death is permanent! Your Hero will be moved to the Graveyard, where they become a staker earning passive $EPXL rewards.
@@ -58,7 +58,7 @@ You can't eliminate death risk completely, but you can reduce it by:
 ## Tokens & Economy
 
 ### What is $EPXL used for?
-$EPXL is used for dungeon entry, fatigue recovery, level acceleration, and future features like cosmetics and trading fees.
+$EPXL is used for dungeon entry, fatigue recovery, and future features like cosmetics and trading fees.
 
 ### How do I earn $EPXL?
 You can earn $EPXL from:

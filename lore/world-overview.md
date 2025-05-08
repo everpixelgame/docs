@@ -99,8 +99,8 @@ As you play, you're not just earning tokens - you're fighting to save the pixel 
 
 ## Future World Expansion
 
-As the roadmap progresses, new regions will be revealed:
-- **The Forgotten Archive**: New dungeon area planned for Phase 2
+As development progresses, new regions will be revealed:
+- **The Forgotten Archive**: New dungeon area planned for future updates
 - **Pixel Void**: Mysterious area beyond the known map
 - **Ancient Processor**: Rumored origin of the first pixels
 

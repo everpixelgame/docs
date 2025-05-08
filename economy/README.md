@@ -24,7 +24,6 @@ $EPXL has several vital uses in the game:
 |-------|-------------|-----------|
 | Dungeon Entry | Required to enter dungeons | 95% burned |
 | Fatigue Recovery | Restore Hero energy | 100% burned |
-| Level Acceleration | Speed up Hero development | 100% burned |
 | Future: Marketplace | Trading fees | TBD |
 | Future: Cosmetics | Visual enhancements | TBD |
 | Future: DAO Voting | Governance power | No burn |
@@ -34,16 +33,16 @@ $EPXL has several vital uses in the game:
 Players can earn $EPXL through:
 - **Dungeon Rewards**: Main source of new tokens
 - **Graveyard Staking**: Passive income from dead Heroes
-- **Referral Program**: 1% of referred players' spending
+- **Referral Program**: 3% of referred players' spending
 
 ### 4. Controlled Supply
 
 The economy includes powerful mechanisms to control token supply:
-- **Hero Minting**: 20 USDC from each mint buys and burns $EPXL
+- **Hero Minting**: $20 USDC from each $50 mint buys and burns $EPXL from Uniswap pool
 - **High Burn Rates**: 95-100% of spent tokens are burned
 - **Locked Rewards**: Dungeon rewards unlock gradually
 - **Treasury**: 5% of dungeon fees fund development
 
 ## Economic Flow
 
-The economic flow creates a balanced loop:
+The economic flow creates a balanced loop of earning and burning, ensuring long-term sustainability for the game ecosystem. For more detailed information, check out our [Tokenomics](tokenomics.md) and [Referral System](referrals.md) pages.
