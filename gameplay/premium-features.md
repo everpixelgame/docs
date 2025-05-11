@@ -8,38 +8,6 @@ Beyond the core functionality of entering dungeons, $EPXL can now be used to pur
 
 ## Available Premium Features
 
-### Rare Item Drop Boost
-
-Increase your Hero's chance of finding rare items during a single dungeon run without affecting $EPXL rewards.
-
-| Boost Level | Cost | Effect | Application |
-|-------------|------|--------|-------------|
-| Minor Boost | 8 $EPXL | +10% rare item drop chance | Single dungeon run |
-| Medium Boost | 20 $EPXL | +25% rare item drop chance | Single dungeon run |
-| Major Boost | 45 $EPXL | +50% rare item drop chance | Single dungeon run |
-
-**Burn Rate**: 90% of $EPXL spent on Rare Item Drop Boosts is burned, with 10% going to the Treasury.
-
-#### Drop Boost Calculation Examples
-
-**Example 1:** Common Hero with Minor Boost
-- Base Drop Rate: Let's say 5% for rare items
-- Boost Effect: +10% chance
-- Final Drop Rate: 5% + 10% = 15% chance
-- Cost: 8 $EPXL (7.2 $EPXL burned, 0.8 $EPXL to Treasury)
-
-**Example 2:** Legendary Hero with Major Boost
-- Base Drop Rate: Let's say 15% for rare items
-- Boost Effect: +50% chance
-- Final Drop Rate: 15% + 50% = 65% chance
-- Cost: 45 $EPXL (40.5 $EPXL burned, 4.5 $EPXL to Treasury)
-
-**Example 3:** Epic Hero running Normal Dungeon with Medium Boost
-- Base Reward: 25 $EPXL (unchanged by boost)
-- Item Drop Chance: +25% for rare items
-- Total Cost: 20 $EPXL + 15 $EPXL (dungeon entry) = 35 $EPXL
-- Potential Value: Normal reward (25 $EPXL) + chance of valuable rare items
-
 ### Experience Accelerator
 
 Speed up your Hero's experience gain for a single dungeon run.
@@ -120,11 +88,6 @@ Premium features must be purchased before each dungeon run and apply only to tha
 
 ## Strategic Considerations
 
-### When to Use Rare Item Drop Boosts
-- Best used in Hard Dungeons where rare items are more common
-- Particularly valuable for high-level Heroes with low death risk
-- Consider activating when hunting for specific rare items
-
 ### When to Use Experience Accelerators
 - Most efficient when used with Hard Dungeons for maximum EXP gain
 - Ideal for Heroes approaching their next level milestone
@@ -144,13 +107,7 @@ Premium features must be purchased before each dungeon run and apply only to tha
 - Recommended Strategy: Ultimate Shield (75 $EPXL) + Master Accelerator (60 $EPXL)
 - Rationale: The combined cost of 135 $EPXL is justified by protecting a nearly maxed Legendary Hero and significantly accelerating the final level gains
 
-**Example 2:** New Rare Hero for item farming
-- Hero Value: Moderate
-- Purpose: Collecting rare items
-- Recommended Strategy: Medium Boost (20 $EPXL) in Normal Dungeons
-- Rationale: Balances cost with item drop chance improvement, while keeping death risk at manageable 4.5%
-
-**Example 3:** Common Hero Level 3
+**Example 2:** Common Hero Level 3
 - Hero Value: Low
 - Purpose: Basic gameplay
 - Recommended Strategy: No premium features
@@ -161,17 +118,17 @@ Premium features must be purchased before each dungeon run and apply only to tha
 The introduction of Premium Features creates additional $EPXL utility while maintaining economic balance through high burn rates:
 
 - **Token Utility**: Creates more demand for $EPXL beyond basic game functions
-- **Controlled Inflation**: High burn rates (80-90%) ensure these features don't disrupt the economy
+- **Controlled Inflation**: High burn rates (80-85%) ensure these features don't disrupt the economy
 - **Strategic Depth**: Offers players more strategic choices and risk management options
-- **Treasury Support**: Contributes 10-20% of feature costs to ongoing game development
+- **Treasury Support**: Contributes 15-20% of feature costs to ongoing game development
 
 ### Economic Impact Examples
 
 **Example 1:** Player using Premium Features on 10% of dungeon runs
 - Average Premium Cost: ~30 $EPXL per enhanced run
-- Average Burn Rate: ~85%
-- $EPXL Burned per Enhanced Run: ~25.5 $EPXL
-- Treasury Contribution per Enhanced Run: ~4.5 $EPXL
+- Average Burn Rate: ~82.5%
+- $EPXL Burned per Enhanced Run: ~24.75 $EPXL
+- Treasury Contribution per Enhanced Run: ~5.25 $EPXL
 
 **Example 2:** Game-wide economic impact with 1,000 active players
 - Assume average 5 dungeon runs per player daily
@@ -179,16 +136,14 @@ The introduction of Premium Features creates additional $EPXL utility while main
 - Total Premium Feature Runs: 1,000 players × 5 runs × 20% = 1,000 enhanced runs daily
 - Assume average 30 $EPXL spent on premium features per enhanced run
 - Total Premium Feature Spending: 30,000 $EPXL daily
-- Total Burned: ~25,500 $EPXL daily
-- Total to Treasury: ~4,500 $EPXL daily
+- Total Burned: ~24,750 $EPXL daily
+- Total to Treasury: ~5,250 $EPXL daily
 
 ## Future Premium Features
 
-The development team is exploring additional premium features for future updates, including:
+The development team is exploring additional premium features for future updates, potentially including:
 
 - **Cooldown Reducers**: Decrease a Hero's cooldown time for a single recovery
-- **Class Skill Boosters**: Enhance class-specific abilities for a single dungeon run
-- **Dungeon Scouts**: Preview dungeon difficulty and potential rewards before committing
 - **Hero Appearance Customization**: Cosmetic enhancements for your Heroes
 
 We welcome community feedback on these premium features as we continue to develop and balance the Everpixel economy.

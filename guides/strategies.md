@@ -142,6 +142,22 @@ Maximize your earnings from dead Heroes:
 3. **Time Scaling**: Older Graveyard Heroes earn more (don't claim too early)
 4. **Regular Monitoring**: Check your Graveyard earnings weekly
 
+## Premium Feature Strategy
+
+### Optimizing Premium Feature Use
+
+| Feature | Best Used With | Optimal Scenario |
+|---------|----------------|------------------|
+| **Experience Accelerator** | Hard Dungeons | Heroes close to level-up milestones |
+| **Death Protection Shield** | Hard Dungeons | High-value Heroes (Legendary/Epic) |
+
+### Premium Feature ROI
+
+| Feature | Cost | Value Generated | Best For |
+|---------|------|-----------------|----------|
+| Master Accelerator | 60 $EPXL | Up to 57.5 extra EXP | Level 9 Legendary in Hard Dungeon |
+| Ultimate Shield | 75 $EPXL | Protects 50 USDC investment | Level 10 Legendary in Hard Dungeon |
+
 ## Market Tactics
 
 ### Token Management

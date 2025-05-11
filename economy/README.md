@@ -23,7 +23,7 @@ $EPXL has several vital uses in the game:
 | Usage | Description | Burn Rate |
 |-------|-------------|-----------|
 | Dungeon Entry | Required to enter dungeons | 95% burned |
-| Premium Features | Boost rewards and reduce risk | 80-90% burned |
+| Premium Features | XP accelerators, death protection | 80-85% burned |
 | Future: Marketplace | Trading fees | TBD |
 | Future: Cosmetics | Visual enhancements | TBD |
 | Future: DAO Voting | Governance power | No burn |
@@ -39,9 +39,9 @@ Players can earn $EPXL through:
 
 The economy includes powerful mechanisms to control token supply:
 - **Hero Minting**: $20 USDC from each $50 mint buys and burns $EPXL from Uniswap pool
-- **High Burn Rates**: 95-100% of spent tokens are burned
+- **High Burn Rates**: 95% of dungeon fees are burned
 - **Locked Rewards**: Dungeon rewards unlock gradually
-- **Treasury**: 5% of dungeon fees fund development
+- **Treasury**: 5% of fees go to treasury for ongoing development
 
 ## Economic Flow
 

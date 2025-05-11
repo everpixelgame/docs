@@ -28,10 +28,10 @@ Dungeons are where your Heroes battle enemies and earn rewards:
 Heroes get tired after dungeon runs:
 - All Heroes start with a 6-hour cooldown at Level 1
 - Cooldown decreases as Heroes level up, with higher rarity Heroes gaining larger reductions:
-    - Common: 2% reduction per level
-    - Rare: 3% reduction per level
-    - Epic: 4% reduction per level
-    - Legendary: 5% reduction per level
+  - Common: 2% reduction per level
+  - Rare: 3% reduction per level
+  - Epic: 4% reduction per level
+  - Legendary: 5% reduction per level
 - Heroes must wait for their cooldown timer to complete before entering another dungeon
 
 ### 3. Death & Graveyard System
@@ -45,9 +45,8 @@ Heroes can die permanently in dungeons:
 ### 4. Premium Features
 
 Optional enhancements available for purchase with $EPXL:
-- **Rare Item Drop Boosts**: Increase chance of finding rare items
 - **Experience Accelerators**: Speed up Hero leveling
-- **Death Protection Shields**: Prevent permanent death
+- **Death Protection Shields**: Prevent permanent death for a single dungeon run
 
 ## System Connections
 

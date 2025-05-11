@@ -11,7 +11,7 @@ $EPXL is the primary token used in Everpixel. It functions as both a utility tok
 | Usage | Details | Burn Rate |
 |-------|---------|-----------|
 | Dungeon Entry | 5-30 $EPXL depending on difficulty | 95% burned, 5% to treasury |
-| Premium Features | Boosts, XP accelerators, death protection | 80-90% burned |
+| Premium Features | XP accelerators, death protection | 80-85% burned |
 | Future: Marketplace Fees | Trading Heroes and items | TBD |
 | Future: Cosmetic Items | Skins, effects, etc. | TBD |
 | Future: DAO Voting | Governance participation | No burn |
@@ -40,7 +40,7 @@ Players can earn $EPXL through:
 $EPXL features aggressive burning to control inflation:
 - **Hero Mint**: $20 USDC from each $50 mint buys and burns $EPXL from Uniswap pool
 - **Dungeon Entry**: 95% of fees burned
-- **Premium Features**: 80-90% of fees burned
+- **Premium Features**: 80-85% of fees burned
 
 ### 2. Locked Rewards
 

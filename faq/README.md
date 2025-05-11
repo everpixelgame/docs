@@ -56,11 +56,31 @@ You can't eliminate death risk completely, but you can reduce it by:
 - Using higher rarity Heroes (lower base death rate)
 - Running easier dungeons (lower difficulty multiplier)
 - Leveling up your Heroes (better performance)
+- Using Death Protection Shields (premium feature)
+
+## Premium Features
+
+### What premium features are available?
+Everpixel offers two premium features:
+- **Experience Accelerators**: Speed up Hero leveling
+- **Death Protection Shields**: Prevent permanent death for a single dungeon run
+
+### How do Experience Accelerators work?
+Experience Accelerators boost the EXP earned from a single dungeon run:
+- Quick Learner: +25% EXP (15 $EPXL)
+- Scholar: +50% EXP (35 $EPXL)
+- Master: +100% EXP (60 $EPXL)
+
+### How do Death Protection Shields work?
+Death Protection Shields prevent your Hero from dying during a single dungeon run:
+- Basic Shield: Prevents death (25 $EPXL)
+- Advanced Shield: Prevents death and returns 10 $EPXL if not triggered (40 $EPXL)
+- Ultimate Shield: Prevents death and returns 25 $EPXL if not triggered (75 $EPXL)
 
 ## Tokens & Economy
 
 ### What is $EPXL used for?
-$EPXL is used for dungeon entry, fatigue recovery, and future features like cosmetics and trading fees.
+$EPXL is used for dungeon entry, premium features, and future features like cosmetics and trading fees.
 
 ### How do I earn $EPXL?
 You can earn $EPXL from:
@@ -76,7 +96,7 @@ Yes, $EPXL has a fixed maximum supply, and multiple burn mechanisms help control
 
 ### What prevents $EPXL from crashing in value?
 The game includes several economic controls:
-- Aggressive burn mechanisms (95-100% of fees)
+- Aggressive burn mechanisms (95% of fees)
 - Locked rewards that unlock gradually
 - Buy & burn from Hero minting
 - Utility value across multiple game systems
