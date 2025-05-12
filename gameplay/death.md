@@ -51,7 +51,7 @@ When Heroes die, they're not completely useless! They enter the Graveyard and be
 ### How Graveyard Staking Works
 
 When Heroes die and enter the Graveyard:
-- 20% of all $EPXL spent in the game goes directly to the Graveyard staking pool
+- 20% of all dungeon entry fees go directly to the Graveyard staking pool
 - Dead Heroes earn rewards from this pool based on their staking power relative to all other Graveyard Heroes
 - The distribution is weighted based on:
   - **Hero Rarity**: Higher rarity = greater staking power

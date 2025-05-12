@@ -6,21 +6,11 @@
 
 $EPXL is the primary token used in Everpixel. It functions as both a utility token (for gameplay) and a reward token (earned from activities). $EPXL exists on Base Chain.
 
-## Token Uses
-
-| Usage | Details | Burn Rate |
-|-------|---------|-----------|
-| Dungeon Entry | 5-30 $EPXL depending on difficulty | 95% burned, 5% to treasury |
-| Premium Features | XP accelerators, death protection | 80-85% burned |
-| Future: Marketplace Fees | Trading Heroes and items | TBD |
-| Future: Cosmetic Items | Skins, effects, etc. | TBD |
-| Future: DAO Voting | Governance participation | No burn |
-
 ## Token Earnings
 
 Players can earn $EPXL through:
 - **Dungeon Rewards**: Primary earning method
-- **Graveyard Staking**: Passive income from dead Heroes
+- **Graveyard Staking**: Passive income from dead Heroes (20% of dungeon fees)
 - **Referral Program**: 3% of referred players' $EPXL spending
 
 ## Token Distribution
@@ -39,19 +29,30 @@ Players can earn $EPXL through:
 
 $EPXL features aggressive burning to control inflation:
 - **Hero Mint**: $20 USDC from each $50 mint buys and burns $EPXL from Uniswap pool
-- **Dungeon Entry**: 95% of fees burned
+- **Dungeon Entry**: 75% of fees burned
 - **Premium Features**: 80-85% of fees burned
 
-### 2. Locked Rewards
+### 2. Fee Distribution
+
+- **Dungeon Entry**: 75% burned, 5% to treasury, 20% to Graveyard staking pool
+- **Premium Features**: 80-85% burned, 15-20% to treasury
+
+### 3. Locked Rewards
 
 - Rewards earned from dungeons are initially locked
 - Tokens unlock gradually by block number
 - Prevents immediate selling and market flooding
 
-### 3. Treasury Allocation
+### 4. Treasury Allocation
 
 - 5% of dungeon entry fees go to treasury
 - Supports long-term game development and economy management
+
+### 5. Graveyard Staking Pool
+
+- 20% of dungeon entry fees go to the Graveyard staking pool
+- Distributed to dead Heroes based on their staking power
+- Creates a sustainable passive income system
 
 ## Token Flow Visualization
 

@@ -33,7 +33,7 @@ For example:
 
 1. **Select Hero** - Choose which Hero to send
 2. **Choose Dungeon** - Select difficulty level
-3. **Pay Entry Fee** - 95% of the fee is burned, 5% goes to treasury
+3. **Pay Entry Fee** - 75% of the fee is burned, 5% goes to treasury, 20% goes to Graveyard staking pool
 4. **Auto-Battle** - The system automatically resolves the battle
 5. **Receive Rewards** - Get locked $EPXL tokens (unlocked gradually)
 6. **Check Results** - Your Hero gains EXP and may suffer fatigue or death

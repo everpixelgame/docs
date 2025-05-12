@@ -22,6 +22,7 @@ Dungeons are where your Heroes battle enemies and earn rewards:
 - Each requires different amounts of $EPXL to enter
 - Higher difficulties offer better rewards but increased death risk
 - Rewards are given in $EPXL tokens
+- Dungeon fees distribution: 75% burned, 5% to treasury, 20% to Graveyard staking pool
 
 ### 2. Fatigue System
 
@@ -39,7 +40,7 @@ Heroes get tired after dungeon runs:
 Heroes can die permanently in dungeons:
 - Death chances vary by rarity (Common: 5%, Rare: 3%, Epic: 2%, Legendary: 1%)
 - Dead Heroes enter the Graveyard (no revival)
-- Graveyard Heroes become "Stakers" earning $EPXL rewards from a pool that receives 20% of all spent $EPXL
+- Graveyard Heroes become "Stakers" earning $EPXL rewards from a pool that receives 20% of all dungeon entry fees
 - Reward distribution is based on staking power determined by Hero rarity and the difficulty of the dungeon where they died
 
 ### 4. Premium Features
@@ -52,7 +53,10 @@ Optional enhancements available for purchase with $EPXL:
 
 These systems all connect to create a balanced economy:
 - Dungeon rewards provide the main $EPXL income
-- Dungeon entry fees and premium features create $EPXL burning mechanisms
+- Dungeon entry fees create multiple economic flows:
+  - 75% burned (deflation mechanism)
+  - 5% to treasury (development funding)
+  - 20% to Graveyard pool (passive income system)
 - Death risk creates strategic choices about which Heroes to use
 - The Graveyard ensures even dead Heroes retain value as stakers in the reward pool
 - Leveling provides gradual cooldown reduction based on rarity, creating long-term value
