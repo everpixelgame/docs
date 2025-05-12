@@ -63,7 +63,7 @@ Common enemies include Void Leviathans, Corrupt Pixel Dragons, and Data Abominat
 Not exactly a physical location, but a metaphysical realm where fallen Heroes continue to exist:
 - Heroes who perish are transported here
 - A place between existence and deletion
-- Fallen Heroes continue to generate $EPXL from beyond
+- Fallen Heroes continue to generate $EVER from beyond
 - Has its own eerie pixel aesthetic
 
 ## The Great Corruption
@@ -72,8 +72,8 @@ The primary conflict in Everphaeria revolves around The Great Corruption - a mys
 
 - **Origin**: Unknown (potentially to be revealed in future updates)
 - **Effects**: Creates dungeons, spawns monsters, distorts the pixel landscape
-- **Purpose**: Seems to be consuming the magical essence ($EPXL) of the world
-- **Solution**: Heroes must enter dungeons to collect and purify $EPXL
+- **Purpose**: Seems to be consuming the magical essence ($EVER) of the world
+- **Solution**: Heroes must enter dungeons to collect and purify $EVER
 
 ## World Timeline
 
@@ -82,7 +82,7 @@ The primary conflict in Everphaeria revolves around The Great Corruption - a mys
 | **The Pixelation** | Creation of Everphaeria as a perfect pixel world |
 | **The Golden Age** | Peaceful times when all pixel beings lived in harmony |
 | **The Corruption** | Beginning of the dungeons and monsters appearing |
-| **Present Day** | Heroes battling back the corruption, collecting $EPXL |
+| **Present Day** | Heroes battling back the corruption, collecting $EVER |
 | **Future** | To be determined by players' collective actions |
 
 ## Lore Connections to Gameplay
@@ -90,7 +90,7 @@ The primary conflict in Everphaeria revolves around The Great Corruption - a mys
 The world's lore directly ties into gameplay mechanics:
 
 - **Dungeons**: Manifestations of corruption that must be cleansed
-- **$EPXL**: The magical essence that powers the world
+- **$EVER**: The magical essence that powers the world
 - **Fatigue**: Corruption temporarily affecting Heroes
 - **Death**: Permanent corruption claiming a Hero
 - **Graveyard**: Alternate state of existence where Heroes still contribute

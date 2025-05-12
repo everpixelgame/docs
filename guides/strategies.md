@@ -37,10 +37,10 @@ Understanding the cooldown reduction system is key to optimizing your gameplay:
 
 | Rarity | Level 10 Cooldown | Max Daily Runs | Daily Rewards (Hard Dungeon) |
 |--------|-------------------|----------------|------------------------------|
-| Common | 4.92 hours | 4.88 runs | 244 $EPXL (4.88 × 50) |
-| Rare | 4.38 hours | 5.48 runs | 301.4 $EPXL (5.48 × 55) |
-| Epic | 3.84 hours | 6.25 runs | 375 $EPXL (6.25 × 60) |
-| Legendary | 3.3 hours | 7.27 runs | 472.55 $EPXL (7.27 × 65) |
+| Common | 4.92 hours | 4.88 runs | 244 $EVER (4.88 × 50) |
+| Rare | 4.38 hours | 5.48 runs | 301.4 $EVER (5.48 × 55) |
+| Epic | 3.84 hours | 6.25 runs | 375 $EVER (6.25 × 60) |
+| Legendary | 3.3 hours | 7.27 runs | 472.55 $EVER (7.27 × 65) |
 
 Note: Reward calculations include rarity bonuses (+10%, +20%, +30%) but not level bonuses for simplicity.
 
@@ -99,12 +99,12 @@ This pattern maximizes natural recovery while maintaining regular activity.
 
 ### Level 10 vs Level 1 Comparison
 
-| Rarity | Level 1 Daily Runs | Level 10 Daily Runs | Increase | Extra Daily $EPXL |
+| Rarity | Level 1 Daily Runs | Level 10 Daily Runs | Increase | Extra Daily $EVER |
 |--------|-------------------|-------------------|----------|-------------------|
-| Common | 4 | 4.88 | +22% | +44 $EPXL |
-| Rare | 4 | 5.48 | +37% | +81.4 $EPXL |
-| Epic | 4 | 6.25 | +56% | +135 $EPXL |
-| Legendary | 4 | 7.27 | +82% | +212.55 $EPXL |
+| Common | 4 | 4.88 | +22% | +44 $EVER |
+| Rare | 4 | 5.48 | +37% | +81.4 $EVER |
+| Epic | 4 | 6.25 | +56% | +135 $EVER |
+| Legendary | 4 | 7.27 | +82% | +212.55 $EVER |
 
 This shows the power of leveling up, especially for higher rarity Heroes. A Level 10 Legendary can earn over 80% more than its Level 1 version!
 
@@ -114,7 +114,7 @@ This shows the power of leveling up, especially for higher rarity Heroes. A Leve
 
 How to allocate your earnings for maximum growth:
 
-| Portfolio Size | New Heroes | Hold $EPXL |
+| Portfolio Size | New Heroes | Hold $EVER |
 |----------------|------------|------------|
 | 1-3 Heroes | 70% | 30% |
 | 4-6 Heroes | 40% | 60% |
@@ -149,26 +149,26 @@ Maximize your earnings from dead Heroes:
 | Feature | Best Used With | Optimal Scenario |
 |---------|----------------|------------------|
 | **Experience Accelerator** | Hard Dungeons | Heroes close to level-up milestones |
-| **Death Protection Shield** | Hard Dungeons | High-value Heroes (Legendary/Epic) |
+| **Pixel Shield** | Hard Dungeons | High-value Heroes (Legendary/Epic) |
 
 ### Premium Feature ROI
 
 | Feature | Cost | Value Generated | Best For |
 |---------|------|-----------------|----------|
-| Master Accelerator | 60 $EPXL | Up to 57.5 extra EXP | Level 9 Legendary in Hard Dungeon |
-| Ultimate Shield | 75 $EPXL | Protects 50 USDC investment | Level 10 Legendary in Hard Dungeon |
+| Master Accelerator | 60 $EVER | Up to 57.5 extra EXP | Level 9 Legendary in Hard Dungeon |
+| Pixel Shield | 40 $EVER | Protects 50 USDC investment | Level 10 Legendary in Hard Dungeon |
 
 ## Market Tactics
 
 ### Token Management
 
-When to hold vs. spend $EPXL:
+When to hold vs. spend $EVER:
 
 | Market Condition | Strategy |
 |------------------|----------|
-| Rising $EPXL price | Hold rewards, spend only on necessities |
-| Falling $EPXL price | Accelerate spending on Heroes and premium features |
-| Stable $EPXL price | Balanced approach of reinvestment |
+| Rising $EVER price | Hold rewards, spend only on necessities |
+| Falling $EVER price | Accelerate spending on Heroes and premium features |
+| Stable $EVER price | Balanced approach of reinvestment |
 
 ### Future Marketplace Preparation
 
@@ -193,10 +193,10 @@ Once Hero trading is enabled:
 ### Calculating Referral Value
 
 Each active referred player is worth approximately:
-- Average player spends ~100 $EPXL/week
-- Your 3% commission = 3 $EPXL/week per player
-- Annual value = ~156 $EPXL per player
-- 10 active referrals = 1,560 $EPXL/year (passive income)
+- Average player spends ~100 $EVER/week
+- Your 3% commission = 3 $EVER/week per player
+- Annual value = ~156 $EVER per player
+- 10 active referrals = 1,560 $EVER/year (passive income)
 
 ## Long-Term Success Model
 

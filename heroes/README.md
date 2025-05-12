@@ -13,7 +13,7 @@ Heroes are the playable characters in Everpixel. Each Hero is a unique NFT with 
 Heroes can be minted for **50 USDC** each. During minting:
 - You randomly receive one of three Classes
 - You randomly receive one of four Rarity levels
-- $20 USDC from each mint is used to buy and burn $EPXL from Uniswap pool
+- $20 USDC from each mint is used to buy and burn $EVER from Uniswap pool
 
 ### Classes and Rarities
 
@@ -46,10 +46,10 @@ As Heroes level up, they gain additional benefits based on their rarity:
 
 - **Cooldown Reduction**: All Heroes start with a 6-hour cooldown at Level 1, which decreases as they level up. Higher rarity Heroes receive greater cooldown reductions per level.
 - **EXP Gain**: Higher rarity Heroes gain experience faster:
-    - Legendary: +15% EXP
-    - Epic: +10% EXP
-    - Rare: +5% EXP
-    - Common: No bonus
+  - Legendary: +15% EXP
+  - Epic: +10% EXP
+  - Rare: +5% EXP
+  - Common: No bonus
 
 ## Quick Links
 - [Hero Classes](classes.md)

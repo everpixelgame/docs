@@ -102,12 +102,12 @@ Each Hero's reward = `(Hero's Staking Power ÷ Total Staking Power of All Heroes
 ### Graveyard Distribution Example
 
 Assuming:
-- Total Graveyard Pool: 1,000 $EPXL
+- Total Graveyard Pool: 1,000 $EVER
 - Total combined staking power of all Heroes: 100 units
 - Your Heroes' combined staking power: 10 units
 
 Your Graveyard earnings would be:
-- (10 ÷ 100) × 1,000 = 100 $EPXL
+- (10 ÷ 100) × 1,000 = 100 $EVER
 
 ## Strategic Considerations
 

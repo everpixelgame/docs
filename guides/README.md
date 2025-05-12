@@ -63,9 +63,9 @@ Each guide includes:
 
 | Dungeon | Entry Fee | Rewards | Death Risk |
 |---------|-----------|---------|------------|
-| Easy | 5 $EPXL | 10 $EPXL | Base |
-| Normal | 15 $EPXL | 25 $EPXL | Base x1.5 |
-| Hard | 30 $EPXL | 50 $EPXL | Base x2 |
+| Easy | 5 $EVER | 10 $EVER | Base |
+| Normal | 15 $EVER | 25 $EVER | Base x1.5 |
+| Hard | 30 $EVER | 50 $EVER | Base x2 |
 
 ## Video Tutorials
 

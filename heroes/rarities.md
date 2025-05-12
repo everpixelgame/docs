@@ -110,10 +110,10 @@ When Heroes die, their rarity affects their staking power in the Graveyard:
 
 | Rarity | Staking Multiplier | Example Daily Yield |
 |--------|-------------------|---------------------|
-| Common | 1x | 5 $EPXL |
-| Rare | 1.5x | 7.5 $EPXL |
-| Epic | 2x | 10 $EPXL |
-| Legendary | 3x | 15 $EPXL |
+| Common | 1x | 5 $EVER |
+| Rare | 1.5x | 7.5 $EVER |
+| Epic | 2x | 10 $EVER |
+| Legendary | 3x | 15 $EVER |
 
 ## Rarity Visualization
 

@@ -9,17 +9,17 @@
 3. Select your wallet (MetaMask, Coinbase Wallet, etc.)
 4. Make sure you're on Base Chain
 
-## Step 2: Get USDC and $EPXL
+## Step 2: Get USDC and $EVER
 
 ### For Minting Heroes (USDC):
 1. You'll need USDC on Base Chain
 2. Transfer USDC to your wallet or bridge from another chain
 3. Each Hero costs 50 USDC to mint
 
-### For Playing (Small amount of $EPXL):
-1. Click "Buy $EPXL" in the navbar
+### For Playing (Small amount of $EVER):
+1. Click "Buy $EVER" in the navbar
 2. Connect to the provided DEX
-3. Swap USDC for $EPXL (start with at least 50 $EPXL)
+3. Swap USDC for $EVER (start with at least 50 $EVER)
 
 ## Step 3: Mint Your First Hero
 
@@ -33,7 +33,7 @@
 
 1. Go to the "Dungeons" section
 2. Select your newly minted Hero
-3. Choose the "Easy" dungeon (costs 5 $EPXL)
+3. Choose the "Easy" dungeon (costs 5 $EVER)
 4. Click "Enter Dungeon"
 5. Wait for the auto-battle to complete
 6. Collect your rewards!
@@ -45,10 +45,10 @@
 2. View your Hero's fatigue meter and cooldown timer
 3. All Heroes start with a 6-hour cooldown at Level 1
 4. As Heroes level up, this cooldown decreases at different rates based on rarity:
-    - Common: 2% reduction per level
-    - Rare: 3% reduction per level
-    - Epic: 4% reduction per level
-    - Legendary: 5% reduction per level
+   - Common: 2% reduction per level
+   - Rare: 3% reduction per level
+   - Epic: 4% reduction per level
+   - Legendary: 5% reduction per level
 5. After a dungeon run, you must wait for the cooldown to pass naturally before using that Hero again
 
 ### Level Up:

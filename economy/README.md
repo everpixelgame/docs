@@ -4,13 +4,13 @@
 
 ## Everpixel Economy at a Glance
 
-Everpixel features a carefully balanced token economy designed for long-term sustainability. The game uses a single token ($EPXL) with multiple utility functions and aggressive burn mechanisms.
+Everpixel features a carefully balanced token economy designed for long-term sustainability. The game uses a single token ($EVER) with multiple utility functions and aggressive burn mechanisms.
 
 ## Core Economic Principles
 
 ### 1. Single Token System
 
-Everpixel uses **$EPXL** as its only token, serving as both:
+Everpixel uses **$EVER** as its only token, serving as both:
 - **Utility token** for in-game actions
 - **Reward token** for successful gameplay
 
@@ -18,7 +18,7 @@ This unified approach simplifies the economy and creates natural supply-demand c
 
 ### 2. Multiple Utility Uses
 
-$EPXL has several vital uses in the game:
+$EVER has several vital uses in the game:
 
 | Usage | Description | Burn Rate | Treasury | Graveyard |
 |-------|-------------|-----------|----------|-----------|
@@ -30,7 +30,7 @@ $EPXL has several vital uses in the game:
 
 ### 3. Value Generation
 
-Players can earn $EPXL through:
+Players can earn $EVER through:
 - **Dungeon Rewards**: Main source of new tokens
 - **Graveyard Staking**: Passive income from dead Heroes through direct pool distribution (20% of dungeon fees)
 - **Referral Program**: 3% of referred players' spending
@@ -38,7 +38,7 @@ Players can earn $EPXL through:
 ### 4. Controlled Supply
 
 The economy includes powerful mechanisms to control token supply:
-- **Hero Minting**: $20 USDC from each $50 mint buys and burns $EPXL from Uniswap pool
+- **Hero Minting**: $20 USDC from each $50 mint buys and burns $EVER from Uniswap pool
 - **High Burn Rates**: 75% of dungeon fees are burned
 - **Locked Rewards**: Dungeon rewards unlock gradually
 - **Treasury**: 5% of fees go to treasury for ongoing development

@@ -4,7 +4,7 @@
 
 ## How Dungeons Work
 
-Dungeons are automated battle arenas where your Heroes fight enemies to earn $EPXL rewards. You select a Hero and a dungeon, pay the entry fee, and the battle plays out automatically.
+Dungeons are automated battle arenas where your Heroes fight enemies to earn $EVER rewards. You select a Hero and a dungeon, pay the entry fee, and the battle plays out automatically.
 
 ## Dungeon Types
 
@@ -12,9 +12,9 @@ Everpixel features three dungeon types, each with different difficulty levels:
 
 | Dungeon | Entry Fee | Rewards | Death Chance | Risk/Reward Ratio |
 |---------|-----------|---------|--------------|-------------------|
-| Easy | 5 $EPXL | 10 $EPXL | Base | 2x (100% ROI) |
-| Normal | 15 $EPXL | 35 $EPXL | Base x1.5 | 2.33x (133% ROI) |
-| Hard | 30 $EPXL | 75 $EPXL | Base x2 | 2.5x (150% ROI) |
+| Easy | 5 $EVER | 10 $EVER | Base | 2x (100% ROI) |
+| Normal | 15 $EVER | 35 $EVER | Base x1.5 | 2.33x (133% ROI) |
+| Hard | 30 $EVER | 75 $EVER | Base x2 | 2.5x (150% ROI) |
 
 > **Note:** Base death chance depends on your Hero's rarity. The dungeon multiplies this chance.
 
@@ -26,8 +26,8 @@ Rewards are calculated based on:
 3. Hero's level (+2% per level)
 
 For example:
-- Level 1 Common Hero in Easy Dungeon = 10 $EPXL
-- Level 5 Rare Hero in Normal Dungeon = 35 × (1 + 0.1 + 0.08) = 41.3 $EPXL
+- Level 1 Common Hero in Easy Dungeon = 10 $EVER
+- Level 5 Rare Hero in Normal Dungeon = 35 × (1 + 0.1 + 0.08) = 41.3 $EVER
 
 ## Dungeon Battle Process
 
@@ -35,7 +35,7 @@ For example:
 2. **Choose Dungeon** - Select difficulty level
 3. **Pay Entry Fee** - 75% of the fee is burned, 5% goes to treasury, 20% goes to Graveyard staking pool
 4. **Auto-Battle** - The system automatically resolves the battle
-5. **Receive Rewards** - Get locked $EPXL tokens (unlocked gradually)
+5. **Receive Rewards** - Get locked $EVER tokens (unlocked gradually)
 6. **Check Results** - Your Hero gains EXP and may suffer fatigue or death
 
 ## Death Risk

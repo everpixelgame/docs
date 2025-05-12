@@ -10,7 +10,7 @@ Welcome to the mystical world of Everphaeria, a digital realm of pixels and adve
 
 Everphaeria was once a peaceful, thriving pixel paradise. However, a mysterious force known as The Great Corruption began to spread across the land, creating dungeons filled with monsters and warping the very nature of reality.
 
-Heroes are now being summoned to battle this corruption, collect the magical essence ($EPXL) that powers the world, and restore balance to Everphaeria.
+Heroes are now being summoned to battle this corruption, collect the magical essence ($EVER) that powers the world, and restore balance to Everphaeria.
 
 ## Key Regions
 

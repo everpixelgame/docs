@@ -3,10 +3,10 @@
 ## General Questions
 
 ### What is Everpixel?
-Everpixel is a 2D Pixel Art Auto-Battle game on Base Chain where you mint Heroes, send them to Dungeons, earn $EPXL tokens, and manage risks from Fatigue and Permanent Death.
+Everpixel is a 2D Pixel Art Auto-Battle game on Base Chain where you mint Heroes, send them to Dungeons, earn $EVER tokens, and manage risks from Fatigue and Permanent Death.
 
 ### Is this a free-to-play game?
-No, you need to mint at least one Hero to play, which costs 50 USDC. After that, you'll need some $EPXL tokens to enter dungeons.
+No, you need to mint at least one Hero to play, which costs 50 USDC. After that, you'll need some $EVER tokens to enter dungeons.
 
 ### What blockchain is Everpixel on?
 Everpixel runs on Base Chain, an Ethereum L2 scaling solution.
@@ -49,52 +49,49 @@ All Heroes start with a 6-hour cooldown at Level 1. As they level up, this coold
 For example, a Level 10 Legendary Hero will have a 3.3-hour cooldown (45% reduction from 6 hours).
 
 ### What happens when my Hero dies?
-Death is permanent! Your Hero will be moved to the Graveyard, where they become a staker earning passive $EPXL rewards.
+Death is permanent! Your Hero will be moved to the Graveyard, where they become a staker earning passive $EVER rewards.
 
 ### How can I prevent my Hero from dying?
 You can't eliminate death risk completely, but you can reduce it by:
 - Using higher rarity Heroes (lower base death rate)
 - Running easier dungeons (lower difficulty multiplier)
 - Leveling up your Heroes (better performance)
-- Using Death Protection Shields (premium feature)
+- Using Pixel Shield (premium feature)
 
 ## Premium Features
 
 ### What premium features are available?
 Everpixel offers two premium features:
 - **Experience Accelerators**: Speed up Hero leveling
-- **Death Protection Shields**: Prevent permanent death for a single dungeon run
+- **Pixel Shield**: Prevent permanent death for a single dungeon run
 
 ### How do Experience Accelerators work?
 Experience Accelerators boost the EXP earned from a single dungeon run:
-- Quick Learner: +25% EXP (15 $EPXL)
-- Scholar: +50% EXP (35 $EPXL)
-- Master: +100% EXP (60 $EPXL)
+- Quick Learner: +25% EXP (15 $EVER)
+- Scholar: +50% EXP (35 $EVER)
+- Master: +100% EXP (60 $EVER)
 
-### How do Death Protection Shields work?
-Death Protection Shields prevent your Hero from dying during a single dungeon run:
-- Basic Shield: Prevents death (25 $EPXL)
-- Advanced Shield: Prevents death and returns 10 $EPXL if not triggered (40 $EPXL)
-- Ultimate Shield: Prevents death and returns 25 $EPXL if not triggered (75 $EPXL)
+### How does Pixel Shield work?
+Pixel Shield prevents your Hero from dying during a single dungeon run and costs 40 $EVER.
 
 ## Tokens & Economy
 
-### What is $EPXL used for?
-$EPXL is used for dungeon entry, premium features, and future features like cosmetics and trading fees.
+### What is $EVER used for?
+$EVER is used for dungeon entry, premium features, and future features like cosmetics and trading fees.
 
-### How do I earn $EPXL?
-You can earn $EPXL from:
+### How do I earn $EVER?
+You can earn $EVER from:
 - Dungeon rewards
 - Graveyard staking
 - Referral program
 
-### Where can I buy $EPXL?
-$EPXL can be purchased on DEXes like Uniswap on Base Chain.
+### Where can I buy $EVER?
+$EVER can be purchased on DEXes like Uniswap on Base Chain.
 
-### Is there a limit to the $EPXL supply?
-Yes, $EPXL has a fixed maximum supply, and multiple burn mechanisms help control inflation.
+### Is there a limit to the $EVER supply?
+Yes, $EVER has a fixed maximum supply, and multiple burn mechanisms help control inflation.
 
-### What prevents $EPXL from crashing in value?
+### What prevents $EVER from crashing in value?
 The game includes several economic controls:
 - Aggressive burn mechanisms (95% of fees)
 - Locked rewards that unlock gradually
