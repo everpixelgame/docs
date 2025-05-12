@@ -40,7 +40,7 @@ Heroes can die permanently in dungeons:
 - Death chances vary by rarity (Common: 5%, Rare: 3%, Epic: 2%, Legendary: 1%)
 - Dead Heroes enter the Graveyard (no revival)
 - Graveyard Heroes become "Stakers" earning $EPXL rewards from a pool that receives 20% of all spent $EPXL
-- Reward factors: Hero rarity, dungeon difficulty at death
+- Reward distribution is based on staking power determined by Hero rarity and the difficulty of the dungeon where they died
 
 ### 4. Premium Features
 
@@ -54,7 +54,7 @@ These systems all connect to create a balanced economy:
 - Dungeon rewards provide the main $EPXL income
 - Dungeon entry fees and premium features create $EPXL burning mechanisms
 - Death risk creates strategic choices about which Heroes to use
-- The Graveyard ensures even dead Heroes retain value
+- The Graveyard ensures even dead Heroes retain value as stakers in the reward pool
 - Leveling provides gradual cooldown reduction based on rarity, creating long-term value
 - Premium Features offer strategic advantages while maintaining economic balance
 

@@ -32,7 +32,7 @@ $EPXL has several vital uses in the game:
 
 Players can earn $EPXL through:
 - **Dungeon Rewards**: Main source of new tokens
-- **Graveyard Staking**: Passive income from dead Heroes
+- **Graveyard Staking**: Passive income from dead Heroes through direct pool distribution
 - **Referral Program**: 3% of referred players' spending
 
 ### 4. Controlled Supply

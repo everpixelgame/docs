@@ -137,10 +137,10 @@ Sometimes, allowing Heroes to die is strategically sound:
 
 Maximize your earnings from dead Heroes:
 
-1. **Death Diversity**: Have Graveyard Heroes from different dungeons
-2. **Rarity Mix**: Higher rarity Heroes earn more in the Graveyard
-3. **Time Scaling**: Older Graveyard Heroes earn more (don't claim too early)
-4. **Regular Monitoring**: Check your Graveyard earnings weekly
+1. **Death Diversity**: Have Graveyard Heroes from different dungeons to maximize staking power
+2. **Rarity Mix**: Higher rarity Heroes earn more staking power in the Graveyard
+3. **Pool Monitoring**: Track the Graveyard pool growth to time your claims optimally
+4. **Strategic Deaths**: Consider intentionally sending lower-value Heroes to death in harder dungeons
 
 ## Premium Feature Strategy
 
